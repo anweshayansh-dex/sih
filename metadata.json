@@ -1,0 +1,10 @@
+{
+  "name": "BIS Sahayak",
+  "description": "Intelligent AI Assistant for Bureau of Indian Standards (BIS) - Smart India Hackathon PS26107. Providing guidance on Indian Standards (IS Codes), certification schemes (ISI, CRS, FMCS), Hallmarking, and consumer support.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

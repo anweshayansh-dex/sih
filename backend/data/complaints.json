@@ -1,0 +1,50 @@
+{
+  "general_workflow": {
+    "steps": [
+      "1. Collect the purchase invoice, warranty card, product photo showing the spurious or missing ISI mark/HUID/CRS logo.",
+      "2. Open the official BIS CARE Mobile App or visit www.manakonline.in -> 'Complaints' section.",
+      "3. Choose complaint type: 'Misuse of ISI Mark', 'Sub-standard Quality Product', 'Fake Hallmark / Missing HUID', or 'Unauthorized Lab'.",
+      "4. Enter product details, manufacturer/seller name, location, and upload supporting photos/bills.",
+      "5. Receive a unique Complaint ID (e.g. BIS-CMP-2025-XXXX) via SMS & Email for real-time tracking.",
+      "6. Designated BIS Enforcement Branch Officer conducts inspection/market raid and draws testing samples.",
+      "7. Upon validation of offense under BIS Act 2016, legal prosecution is initiated and consumer is informed of resolution."
+    ],
+    "estimated_time": "Initial acknowledgement within 48 hours | Investigation & Lab testing report in 15 to 30 working days",
+    "escalation_contact": "Consumer Affairs Department, BIS HQ, 9 Bahadur Shah Zafar Marg, New Delhi 110002 | Toll-Free: 1915 (National Consumer Helpline) / 1800-11-4000 | Email: complaints@bis.gov.in",
+    "required_documents": [
+      "Retail Invoice / Cash Memo with GSTIN",
+      "Clear photograph of the product showing markings or defects",
+      "Exact address of the shop/dealer where purchased"
+    ],
+    "portal_url": "https://www.manakonline.in/MANAK/Complaints"
+  },
+  "sample_complaints": [
+    {
+      "complaint_id": "BIS-CMP-2025-8842",
+      "consumer_name": "Rajesh Sharma",
+      "subject": "Spurious ISI mark on packaged drinking water bottle",
+      "product_brand": "AquaPure 1L Bottle",
+      "date_filed": "2025-01-14",
+      "status": "Sample Verification",
+      "resolution_notes": "Sample drawn from retail shop in Noida Sector 18. Sent to Central Lab Ghaziabad for microbiological analysis."
+    },
+    {
+      "complaint_id": "BIS-CMP-2025-9120",
+      "consumer_name": "Priyanka Mohapatra",
+      "subject": "Jeweller refused to provide HUID code on 22K gold bangle",
+      "product_brand": "Sri Mahavir Jewellers, Cuttack",
+      "date_filed": "2025-01-18",
+      "status": "Assigned to Branch Officer",
+      "resolution_notes": "Bhubaneswar Branch Office issued show-cause notice under Section 14 of BIS Act 2016."
+    },
+    {
+      "complaint_id": "BIS-CMP-2024-7621",
+      "consumer_name": "Amitabh Sen",
+      "subject": "Sub-standard electric iron overheating without thermal cutoff",
+      "product_brand": "SpeedPress 1000W",
+      "date_filed": "2024-11-05",
+      "status": "Resolved",
+      "resolution_notes": "Manufacturer penalized under BIS Act for non-conformance with IS 302. Defective batch recalled from market."
+    }
+  ]
+}

@@ -1,0 +1,3399 @@
+[
+  {
+    "standard_number": "IS 14543:2016",
+    "title": "Packaged Drinking Water (Other than Packaged Natural Mineral Water) - Specification",
+    "category": "Food & Beverages / Water",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Prescribes requirements and methods of sampling and testing for packaged drinking water. Mandatory certification under FSSAI and BIS regulations.",
+    "key_clauses": [
+      "Clause 4.1: Quality of raw water source must be free from chemical and microbiological contamination.",
+      "Clause 5.2: Maximum permissible limit for Total Dissolved Solids (TDS) is 500 mg/l.",
+      "Clause 7.1: Mandatory ISI Mark embossing/printing along with CM/L license number and manufacturing date.",
+      "Clause 8.3: Microbiological parameters: E. coli, Coliform bacteria, Faecal Streptococci must be absent in 250 ml."
+    ],
+    "keywords": [
+      "packaged drinking water",
+      "mineral water",
+      "bottled water",
+      "water jar",
+      "drinking water",
+      "tds",
+      "water treatment"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is14543"
+  },
+  {
+    "standard_number": "IS 3196 (Part 1):2013",
+    "title": "Welded Low Carbon Steel Cylinders for Low Pressure Liquefied Gases - LPG Cylinders",
+    "category": "Gas Appliances & Pressure Vessels",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Specifies design, manufacturing, inspection, and testing of welded low carbon steel cylinders intended for storage and transportation of Liquefied Petroleum Gas (LPG).",
+    "key_clauses": [
+      "Clause 3.2: Material must be micro-alloyed or low carbon steel with minimum yield strength 240 MPa.",
+      "Clause 6.1: Hydrostatic test pressure must withstand 2.5 MPa without leakage or distortion.",
+      "Clause 9.4: Permanent marking of tare weight, test date, and ISI certification mark on the stay plate.",
+      "Clause 11.2: Volumetric expansion ratio test limit max 1/5000."
+    ],
+    "keywords": [
+      "lpg cylinder",
+      "cooking gas",
+      "cylinder",
+      "domestic cylinder",
+      "indane",
+      "hp gas",
+      "bharat gas",
+      "gas cylinder"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is3196"
+  },
+  {
+    "standard_number": "IS 1417:2016",
+    "title": "Gold and Gold Alloys, Jewellery/Artefacts - Fineness and Marking - Specification",
+    "category": "Precious Metals & Hallmarking",
+    "mandatory": true,
+    "scheme": "Hallmarking Scheme",
+    "description": "Covers purity grades, fineness limits, and hallmarking requirements for gold jewellery and artefacts sold in India.",
+    "key_clauses": [
+      "Clause 4.1: Recognized standard gold fineness grades: 24K (999/995), 23K (958), 22K (916), 20K (833), 18K (750), 14K (585), 9K (375).",
+      "Clause 5.1: Hallmarking comprises three mandatory marks: (1) BIS Logo, (2) Purity in Karat and Fineness (e.g. 22K916), (3) 6-digit alphanumeric HUID (Hallmark Unique Identification).",
+      "Clause 6.3: Fire assay method (IS 1418) or XRF for preliminary non-destructive screening at Assaying & Hallmarking Centres (AHC)."
+    ],
+    "keywords": [
+      "gold",
+      "hallmark",
+      "huid",
+      "gold jewellery",
+      "22k916",
+      "18k750",
+      "purity",
+      "gold purity",
+      "jewellery hallmark"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is1417"
+  },
+  {
+    "standard_number": "IS 13252 (Part 1):2010",
+    "title": "Information Technology Equipment - Safety - General Requirements",
+    "category": "Electronics & IT Goods",
+    "mandatory": true,
+    "scheme": "Compulsory Registration Scheme (CRS)",
+    "description": "Applies to mains-powered or battery-powered information technology equipment, including electrical business equipment, laptops, mobile phones, servers, adapters.",
+    "key_clauses": [
+      "Clause 1.2: Prevention of electrical shock, energy hazards, fire, mechanical and heat hazards.",
+      "Clause 2.1: Protection against electric shock and accessible parts insulation test.",
+      "Clause 4.5: Thermal resistance and flammability testing of enclosure materials (UL94 V-0 or equivalent).",
+      "Clause 5.3: Mandatory R-number (Registration Number) display along with the Standard Mark on packaging."
+    ],
+    "keywords": [
+      "mobile phone",
+      "laptop",
+      "power adapter",
+      "charger",
+      "server",
+      "it equipment",
+      "electronics",
+      "tablet",
+      "crs registration"
+    ],
+    "source_url": "https://www.crsbis.in/BIS/standard_details/is13252"
+  },
+  {
+    "standard_number": "IS 16046 (Part 2):2018",
+    "title": "Secondary Cells and Batteries Containing Alkaline or Other Non-Acid Electrolytes - Lithium Cells & Batteries",
+    "category": "Electronics & Energy Storage",
+    "mandatory": true,
+    "scheme": "Compulsory Registration Scheme (CRS)",
+    "description": "Safety requirements for portable sealed secondary lithium cells and for batteries made from them, for use in portable electronic applications.",
+    "key_clauses": [
+      "Clause 7.2: Continuous charging at constant voltage test.",
+      "Clause 7.3.2: External short circuit test (cell and battery at 55 deg C).",
+      "Clause 7.3.6: Overcharge and forced discharge tests.",
+      "Clause 8.1: Mandatory CRS Standard Mark with 'IS 16046 (Part 2)' and Unique Registration Number R-XXXXXXXX."
+    ],
+    "keywords": [
+      "lithium battery",
+      "power bank",
+      "ev battery",
+      "cell",
+      "li-ion",
+      "rechargeable battery",
+      "laptop battery"
+    ],
+    "source_url": "https://www.crsbis.in/BIS/standard_details/is16046"
+  },
+  {
+    "standard_number": "IS 9873 (Part 1):2019",
+    "title": "Safety of Toys - Safety Aspects Related to Mechanical and Physical Properties",
+    "category": "Toys & Children Products",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Toys Quality Control Order",
+    "description": "Specifies safety requirements and testing methods for toys intended for use by children under 14 years. Quality Control Order (QCO) makes ISI mark mandatory.",
+    "key_clauses": [
+      "Clause 4.1: Small parts test to avoid choking hazards for children under 36 months.",
+      "Clause 4.7: Sharp edges and points inspection before and after drop/impact tests.",
+      "Clause 5.1: Maximum heavy metals migration limit (Lead, Cadmium, Mercury, Arsenic under IS 9873 Part 3).",
+      "Clause 7: Mandatory domestic factory audit and foreign factory audit (FMCS) prior to license grant."
+    ],
+    "keywords": [
+      "toy",
+      "toys",
+      "plastic toys",
+      "kids games",
+      "electric toys",
+      "soft toys",
+      "child safety",
+      "isi mark for toys"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is9873"
+  },
+  {
+    "standard_number": "IS 4151:2020",
+    "title": "Protective Helmets for Two Wheeler Riders - Specification",
+    "category": "Automotive & Road Safety",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Prescribes requirements for protective helmets for everyday motorcycle and scooter riders. Non-ISI helmets are legally banned for sale under Central Motor Vehicle Rules.",
+    "key_clauses": [
+      "Clause 5.1: Maximum weight of two-wheeler helmet capped at 1.2 kg to avoid cervical strain.",
+      "Clause 6.1: Impact absorption test using drop rig at -10°C, ambient, and +50°C temperatures.",
+      "Clause 7.2: Retention system dynamic test and chin strap slippage limits (max 30 mm elongation).",
+      "Clause 9.1: Permanent ISI certification mark along with helmet size (540 mm to 600 mm) embossed."
+    ],
+    "keywords": [
+      "helmet",
+      "two wheeler helmet",
+      "bike helmet",
+      "motorcycle helmet",
+      "rider safety",
+      "isi helmet"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is4151"
+  },
+  {
+    "standard_number": "IS 269:2015",
+    "title": "Ordinary Portland Cement - Specification (33, 43 and 53 Grade)",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Covers manufacture and chemical/physical requirements of ordinary Portland cement. Quality Control Order mandates BIS certification for all cement plants.",
+    "key_clauses": [
+      "Clause 5.1: Chemical requirements: Total loss on ignition shall not exceed 5.0%.",
+      "Clause 6.2: Minimum compressive strength for 53 Grade: 3 days (27 MPa), 7 days (37 MPa), 28 days (53 MPa).",
+      "Clause 6.4: Initial setting time not less than 30 minutes, final setting time not more than 600 minutes.",
+      "Clause 10.2: Plain packaging with ISI Mark, Grade, Month/Year of packing, and Net Quantity 50 kg."
+    ],
+    "keywords": [
+      "cement",
+      "opc cement",
+      "ordinary portland cement",
+      "53 grade cement",
+      "43 grade",
+      "concrete",
+      "construction"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is269"
+  },
+  {
+    "standard_number": "IS 1786:2008",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement (TMT Rebars)",
+    "category": "Civil Engineering & Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Specifies requirements for thermo-mechanically treated (TMT) steel bars, Fe 415, Fe 500, Fe 550, and Fe 600 grades for concrete structural reinforcement.",
+    "key_clauses": [
+      "Clause 4.1: Chemical limits: Max Carbon 0.30%, Max Sulphur and Phosphorus 0.055% for Fe 500D.",
+      "Clause 7.1: Minimum proof stress/yield strength: 500 MPa for Fe 500, with minimum 16% elongation.",
+      "Clause 8.2: Bend and rebend test without signs of fracture or visible cracking.",
+      "Clause 11.1: Every metre length of bar should roll with manufacturer identification and ISI Standard Mark."
+    ],
+    "keywords": [
+      "tmt bar",
+      "steel rebar",
+      "tmt steel",
+      "reinforcement steel",
+      "fe 500",
+      "fe 550d",
+      "construction steel",
+      "saria"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is1786"
+  },
+  {
+    "standard_number": "IS 694:2010",
+    "title": "Polyvinyl Chloride (PVC) Insulated Unsheathed and Sheathed Cables/Cords with Rigid and Flexible Conductor",
+    "category": "Electrical & Cables",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Specifies single core and multi core PVC insulated cables for working voltages up to and including 1100 V used for domestic and industrial wiring.",
+    "key_clauses": [
+      "Clause 5.1: Conductor material must be high conductivity annealed electrolytic copper or aluminium.",
+      "Clause 6.1: Insulation resistance constant test at 70°C.",
+      "Clause 9.3: Spark test at 6000 V to ensure pinhole-free extrusion.",
+      "Clause 15.2: Sequential metre marking along with manufacturer name and ISI mark every metre."
+    ],
+    "keywords": [
+      "electric wire",
+      "pvc cable",
+      "house wiring",
+      "copper wire",
+      "electrical cable",
+      "1100v cable"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is694",
+    "id": "BIS-PM-005",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing"
+  },
+  {
+    "standard_number": "IS 302 (Part 2/Sec 3):2007",
+    "title": "Safety of Household and Similar Electrical Appliances - Particular Requirements for Electric Irons",
+    "category": "Household Electrical Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Deals with the safety of electric dry irons and steam irons for household and similar purposes, rated voltage not more than 250 V.",
+    "key_clauses": [
+      "Clause 8: Protection against access to live parts.",
+      "Clause 11: Heating test during normal continuous operation.",
+      "Clause 13: Electric strength and leakage current at operating temperature (max 0.75 mA).",
+      "Clause 19: Abnormal operation test including thermostat failure test."
+    ],
+    "keywords": [
+      "electric iron",
+      "steam iron",
+      "dry iron",
+      "press",
+      "home appliances",
+      "electrical safety"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is302"
+  },
+  {
+    "standard_number": "IS 616:2017",
+    "title": "Audio, Video and Similar Electronic Apparatus - Safety Requirements",
+    "category": "Electronics & IT Goods",
+    "mandatory": true,
+    "scheme": "Compulsory Registration Scheme (CRS)",
+    "description": "Safety requirements for electronic apparatus designed to be fed from mains, supplying apparatus, batteries for home entertainment like LED TVs, amplifiers, set-top boxes.",
+    "key_clauses": [
+      "Clause 4.3: Radiation safety limits for display panels and optical lasers.",
+      "Clause 9: Electric shock hazard and insulation resistance.",
+      "Clause 14: Components flammability testing.",
+      "Clause 20: Marking with BIS Standard Mark and Portal Registration Number."
+    ],
+    "keywords": [
+      "led tv",
+      "television",
+      "smart tv",
+      "audio system",
+      "speaker",
+      "set top box",
+      "amplifier",
+      "crs"
+    ],
+    "source_url": "https://www.crsbis.in/BIS/standard_details/is616"
+  },
+  {
+    "standard_number": "IS 16102 (Part 1):2012",
+    "title": "Self-Ballasted LED Lamps for General Lighting Services - Part 1: Safety Requirements",
+    "category": "Lighting & LED",
+    "mandatory": true,
+    "scheme": "Compulsory Registration Scheme (CRS)",
+    "description": "Safety and interchangeability requirements for self-ballasted LED lamps with a supply voltage up to 250 V 50 Hz.",
+    "key_clauses": [
+      "Clause 6: Cap interchangeability (B22d, E27) dimensions.",
+      "Clause 8: Insulation resistance and dielectric strength after humidity treatment.",
+      "Clause 13: Resistance to heat and fire.",
+      "Clause 14: Fault condition test."
+    ],
+    "keywords": [
+      "led bulb",
+      "led light",
+      "bulb",
+      "lighting",
+      "led lamp",
+      "b22 bulb"
+    ],
+    "source_url": "https://www.crsbis.in/BIS/standard_details/is16102"
+  },
+  {
+    "standard_number": "IS 15658:2021",
+    "title": "Precast Concrete Blocks for Paving - Specification",
+    "category": "Civil Engineering & Construction",
+    "mandatory": false,
+    "scheme": "ISI Mark (Scheme I - Voluntary)",
+    "description": "Specifies requirements for solid, unreinforced precast cement concrete paver blocks for residential, commercial and heavy duty industrial pavements.",
+    "key_clauses": [
+      "Clause 5.1: Water absorption not to exceed 6% by mass.",
+      "Clause 6.1: Compressive strength grades: M30, M35, M40, M50.",
+      "Clause 6.2: Abrasion resistance test using Bohme disc / Capon disc method."
+    ],
+    "keywords": [
+      "paver block",
+      "paving block",
+      "concrete block",
+      "footpath tiles",
+      "interlocking tiles"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is15658"
+  },
+  {
+    "standard_number": "IS 14286:2010",
+    "title": "Crystalline Silicon Terrestrial Photovoltaic (PV) Modules - Design Qualification and Type Approval",
+    "category": "Solar & Renewable Energy",
+    "mandatory": true,
+    "scheme": "Compulsory Registration Scheme (CRS) - Solar QCO",
+    "description": "Lay down requirements for design qualification and type approval of terrestrial crystalline silicon photovoltaic modules for long-term outdoor operation.",
+    "key_clauses": [
+      "Clause 10.11: Damp heat test (85°C and 85% RH for 1000 hours).",
+      "Clause 10.12: Thermal cycling test (200 cycles from -40°C to +85°C).",
+      "Clause 10.17: Hail impact test and mechanical load test (2400 Pa).",
+      "Clause 10.18: Bypass diode thermal test."
+    ],
+    "keywords": [
+      "solar panel",
+      "solar module",
+      "photovoltaic",
+      "solar cell",
+      "pv module",
+      "solar energy",
+      "crs solar"
+    ],
+    "source_url": "https://www.crsbis.in/BIS/standard_details/is14286"
+  },
+  {
+    "standard_number": "IS 15885 (Part 2/Sec 13):2012",
+    "title": "Lamp Controlgear - Part 2: Particular Requirements - Section 13: d.c. or a.c. Supplied Electronic Controlgear for LED Modules",
+    "category": "Lighting & Electronics",
+    "mandatory": true,
+    "scheme": "Compulsory Registration Scheme (CRS)",
+    "description": "Particular safety requirements for electronic controlgear (LED drivers) for use on d.c. supplies up to 250 V and a.c. supplies up to 1000 V at 50 Hz.",
+    "key_clauses": [
+      "Clause 8: Protection against electric shock.",
+      "Clause 14: Fault condition testing on driver circuit components.",
+      "Clause 16: Resistance to heat, fire and tracking.",
+      "Clause 19: Output voltage and current regulation under load variance."
+    ],
+    "keywords": [
+      "led driver",
+      "power supply for led",
+      "led control gear",
+      "ballast"
+    ],
+    "source_url": "https://www.crsbis.in/BIS/standard_details/is15885"
+  },
+  {
+    "standard_number": "IS 15298 (Part 2):2016",
+    "title": "Personal Protective Equipment - Part 2: Safety Footwear",
+    "category": "Footwear & PPE",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Footwear QCO",
+    "description": "Specifies basic and additional requirements for safety footwear equipped with toecaps designed to provide protection against impact at an energy level of at least 200 Joules.",
+    "key_clauses": [
+      "Clause 5.3: Impact resistance of toecap (minimum clearance after 200 J impact).",
+      "Clause 5.4: Upper tear strength and water vapour permeability.",
+      "Clause 5.8: Outsole abrasion resistance and flex resistance test.",
+      "Clause 7: Clear embossing of ISI Mark with Category code (e.g. S1, S2, S3)."
+    ],
+    "keywords": [
+      "safety shoes",
+      "safety footwear",
+      "industrial boots",
+      "steel toe shoes",
+      "footwear qco",
+      "leather shoes"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is15298"
+  },
+  {
+    "standard_number": "IS 17273:2020",
+    "title": "Electric Vehicle Conductive AC Charging System - Specification",
+    "category": "Electric Vehicles & Clean Mobility",
+    "mandatory": true,
+    "scheme": "ISI Mark / Automotive Scheme",
+    "description": "Prescribes general requirements and safety provisions for AC charging stations and EVSE (Electric Vehicle Supply Equipment).",
+    "key_clauses": [
+      "Clause 6.2: Insulation coordination and dielectric withstand voltage.",
+      "Clause 8.1: Grounding conductor continuity monitoring and automatic disconnect within 40 ms.",
+      "Clause 11.4: IP54 minimum ingress protection rating for outdoor charging units.",
+      "Clause 14: Interoperability testing with Indian vehicle inlets."
+    ],
+    "keywords": [
+      "ev charger",
+      "electric vehicle charger",
+      "evse",
+      "charging station",
+      "ac charger",
+      "ev"
+    ],
+    "source_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/is17273"
+  },
+  {
+    "id": "BIS-PM-001",
+    "standard_number": "IS 3055 (Part 1):1994",
+    "title": "Clinical Thermometers – Solid Stem Type",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 3055 (Part 1):1994 covering Clinical Thermometers – Solid Stem Type. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3055 (Part 1):1994 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "clinical",
+      "thermometers",
+      "solid",
+      "stem",
+      "type",
+      "is",
+      "3055",
+      "part",
+      "1",
+      "1994"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-002",
+    "standard_number": "IS 3055 (Part 2):2004",
+    "title": "Clinical Thermometers – Enclosed Scale Type",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 3055 (Part 2):2004 covering Clinical Thermometers – Enclosed Scale Type. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3055 (Part 2):2004 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "clinical",
+      "thermometers",
+      "enclosed",
+      "scale",
+      "type",
+      "is",
+      "3055",
+      "part",
+      "2",
+      "2004"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-003",
+    "standard_number": "IS 13422:2024 / ISO 10282:2023",
+    "title": "Single-Use Sterile Rubber Surgical Gloves — Specification",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 13422:2024 / ISO 10282:2023 covering Single-Use Sterile Rubber Surgical Gloves — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 13422:2024 / ISO 10282:2023 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "single",
+      "use",
+      "sterile",
+      "rubber",
+      "surgical",
+      "gloves",
+      "is",
+      "13422",
+      "2024",
+      "/"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-004",
+    "standard_number": "IS 9283:2024",
+    "title": "Line Operated a.c. Motors for Submersible Pumpsets — Specification (Third Revision)",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 9283:2024 covering Line Operated a.c. Motors for Submersible Pumpsets — Specification (Third Revision). Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 9283:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "line",
+      "operated",
+      "motors",
+      "submersible",
+      "pumpsets",
+      "third",
+      "revision",
+      "is",
+      "9283",
+      "2024"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-006",
+    "standard_number": "IS/IEC 60079 (Part 1):2014",
+    "title": "Explosive Atmospheres — Part 1 — Equipment Protection by Flameproof Enclosures “d”",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS/IEC 60079 (Part 1):2014 covering Explosive Atmospheres — Part 1 — Equipment Protection by Flameproof Enclosures “d”. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS/IEC 60079 (Part 1):2014 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "explosive",
+      "atmospheres",
+      "equipment",
+      "protection",
+      "flameproof",
+      "enclosures",
+      "is/iec",
+      "60079",
+      "part",
+      "1"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-007",
+    "standard_number": "IS 3575:1993",
+    "title": "Bitumen Drums",
+    "category": "Industrial Packaging & Textiles",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Industrial Packaging",
+    "description": "Indian Standard specification IS 3575:1993 covering Bitumen Drums. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3575:1993 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "bitumen",
+      "drums",
+      "is",
+      "3575",
+      "1993",
+      "industrial packaging & textiles"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-008",
+    "standard_number": "IS 2062:2011",
+    "title": "Hot Rolled Medium and High Tensile Structural Steel",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 2062:2011 covering Hot Rolled Medium and High Tensile Structural Steel. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2062:2011 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "hot",
+      "rolled",
+      "medium",
+      "high",
+      "tensile",
+      "structural",
+      "steel",
+      "is",
+      "2062",
+      "2011"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-009",
+    "standard_number": "IS 10748:2004",
+    "title": "Hot Rolled Steel Strip for Welded Tubes and Pipes",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 10748:2004 covering Hot Rolled Steel Strip for Welded Tubes and Pipes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 10748:2004 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "hot",
+      "rolled",
+      "steel",
+      "strip",
+      "welded",
+      "tubes",
+      "pipes",
+      "is",
+      "10748",
+      "2004"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-010",
+    "standard_number": "IS 2879:1998",
+    "title": "Mild Steel for Metal Arc Welding Electrodes",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 2879:1998 covering Mild Steel for Metal Arc Welding Electrodes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2879:1998 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "mild",
+      "steel",
+      "metal",
+      "arc",
+      "welding",
+      "electrodes",
+      "is",
+      "2879",
+      "1998",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-011",
+    "standard_number": "IS 3975:1999",
+    "title": "Low Carbon Galvanized Steel Wires, Formed Wires and Tapes for Armouring of Cables",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 3975:1999 covering Low Carbon Galvanized Steel Wires, Formed Wires and Tapes for Armouring of Cables. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3975:1999 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "low",
+      "carbon",
+      "galvanized",
+      "steel",
+      "wires",
+      "formed",
+      "tapes",
+      "armouring",
+      "cables",
+      "is"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-012",
+    "standard_number": "IS 11513:2017",
+    "title": "Hot Rolled Carbon Steel Strip for Cold Rolling Purposes",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 11513:2017 covering Hot Rolled Carbon Steel Strip for Cold Rolling Purposes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 11513:2017 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "hot",
+      "rolled",
+      "carbon",
+      "steel",
+      "strip",
+      "cold",
+      "rolling",
+      "purposes",
+      "is",
+      "11513"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-013",
+    "standard_number": "IS 7466:2023",
+    "title": "Rubber Gaskets for Pressure Cookers",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 7466:2023 covering Rubber Gaskets for Pressure Cookers. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 7466:2023 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "rubber",
+      "gaskets",
+      "pressure",
+      "cookers",
+      "is",
+      "7466",
+      "2023",
+      "household & kitchen appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-014",
+    "standard_number": "IS 1783 (Part 1):2014",
+    "title": "Drums Large, Fixed Ends, Grade A Drums",
+    "category": "Industrial Packaging & Textiles",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Industrial Packaging",
+    "description": "Indian Standard specification IS 1783 (Part 1):2014 covering Drums Large, Fixed Ends, Grade A Drums. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1783 (Part 1):2014 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "drums",
+      "large",
+      "fixed",
+      "ends",
+      "grade",
+      "is",
+      "1783",
+      "part",
+      "1",
+      "2014"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-015",
+    "standard_number": "IS 1783 (Part 2):2014",
+    "title": "Drums Large, Fixed Ends, Grade B Drums",
+    "category": "Industrial Packaging & Textiles",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Industrial Packaging",
+    "description": "Indian Standard specification IS 1783 (Part 2):2014 covering Drums Large, Fixed Ends, Grade B Drums. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1783 (Part 2):2014 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "drums",
+      "large",
+      "fixed",
+      "ends",
+      "grade",
+      "is",
+      "1783",
+      "part",
+      "2",
+      "2014"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-016",
+    "standard_number": "IS 9537 (Part 3):1983",
+    "title": "Conduits for Electrical Installations — Rigid Plain Conduits of Insulating Materials",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 9537 (Part 3):1983 covering Conduits for Electrical Installations — Rigid Plain Conduits of Insulating Materials. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 9537 (Part 3):1983 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "conduits",
+      "electrical",
+      "installations",
+      "rigid",
+      "plain",
+      "insulating",
+      "materials",
+      "is",
+      "9537",
+      "part"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-017",
+    "standard_number": "IS 13098:2024",
+    "title": "Automotive Vehicles — Tubes for Pneumatic Tyres",
+    "category": "Automotive & Mobility",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Automotive Components QCO",
+    "description": "Indian Standard specification IS 13098:2024 covering Automotive Vehicles — Tubes for Pneumatic Tyres. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 13098:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "automotive",
+      "vehicles",
+      "tubes",
+      "pneumatic",
+      "tyres",
+      "is",
+      "13098",
+      "2024",
+      "automotive & mobility"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-018",
+    "standard_number": "IS 12640 (Part 1):2024 / IEC 61008-1:2013",
+    "title": "Residual Current Operated Circuit Breakers without Integral Overcurrent Protection for Household and Similar Uses (RCCBs) — Part 1 General Rules",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 12640 (Part 1):2024 / IEC 61008-1:2013 covering Residual Current Operated Circuit Breakers without Integral Overcurrent Protection for Household and Similar Uses (RCCBs) — Part 1 General Rules. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 12640 (Part 1):2024 / IEC 61008-1:2013 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "residual",
+      "current",
+      "operated",
+      "circuit",
+      "breakers",
+      "without",
+      "integral",
+      "overcurrent",
+      "protection",
+      "household"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-019",
+    "standard_number": "IS 15623:2005",
+    "title": "Melamine (2,4,6-Triamino-1,3,5-Triazine)",
+    "category": "Chemicals & Petrochemicals",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Chemicals QCO",
+    "description": "Indian Standard specification IS 15623:2005 covering Melamine (2,4,6-Triamino-1,3,5-Triazine). Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15623:2005 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "melamine",
+      "triamino",
+      "triazine",
+      "is",
+      "15623",
+      "2005",
+      "chemicals & petrochemicals"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-020",
+    "standard_number": "IS 2415:2015",
+    "title": "Cycle — Rubber Tubes (Moulded/Jointed)",
+    "category": "Automotive & Mobility",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Automotive Components QCO",
+    "description": "Indian Standard specification IS 2415:2015 covering Cycle — Rubber Tubes (Moulded/Jointed). Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2415:2015 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "cycle",
+      "rubber",
+      "tubes",
+      "moulded",
+      "jointed",
+      "is",
+      "2415",
+      "2015",
+      "automotive & mobility"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-021",
+    "standard_number": "IS 15809:2017",
+    "title": "High Visibility Warning Clothes — Specification",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS 15809:2017 covering High Visibility Warning Clothes — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15809:2017 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "high",
+      "visibility",
+      "warning",
+      "clothes",
+      "is",
+      "15809",
+      "2017",
+      "general indian standard"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-022",
+    "standard_number": "IS 733:1983",
+    "title": "Wrought Aluminium and Aluminium Alloy Bars, Rods and Sections (For General Engineering Purposes)",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 733:1983 covering Wrought Aluminium and Aluminium Alloy Bars, Rods and Sections (For General Engineering Purposes). Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 733:1983 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "wrought",
+      "aluminium",
+      "alloy",
+      "bars",
+      "rods",
+      "sections",
+      "general",
+      "engineering",
+      "purposes",
+      "is"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-023",
+    "standard_number": "IS 513 (Part 1):2016",
+    "title": "Cold Reduced Carbon Steel Sheet and Strip — Part 1 Cold Forming and Drawing Purposes",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 513 (Part 1):2016 covering Cold Reduced Carbon Steel Sheet and Strip — Part 1 Cold Forming and Drawing Purposes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 513 (Part 1):2016 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "cold",
+      "reduced",
+      "carbon",
+      "steel",
+      "sheet",
+      "strip",
+      "forming",
+      "drawing",
+      "purposes",
+      "is"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-024",
+    "standard_number": "IS 8144:2018",
+    "title": "Multipurpose Dry Batteries",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS 8144:2018 covering Multipurpose Dry Batteries. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 8144:2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "multipurpose",
+      "dry",
+      "batteries",
+      "is",
+      "8144",
+      "2018",
+      "general indian standard"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-025",
+    "standard_number": "IS 12615:2018",
+    "title": "Line Operated Three Phase a.c. Motors (IE Code) — Efficiency Classes and Performance Specification",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 12615:2018 covering Line Operated Three Phase a.c. Motors (IE Code) — Efficiency Classes and Performance Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 12615:2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "line",
+      "operated",
+      "three",
+      "phase",
+      "motors",
+      "code",
+      "efficiency",
+      "classes",
+      "performance",
+      "is"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-026",
+    "standard_number": "IS 12640 (Part 2):2016 / IEC 61009-1:2012",
+    "title": "Residual Current Operated Circuit-Breakers with Integral Overcurrent Protection for Household and Similar Uses (RCBOs)",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 12640 (Part 2):2016 / IEC 61009-1:2012 covering Residual Current Operated Circuit-Breakers with Integral Overcurrent Protection for Household and Similar Uses (RCBOs). Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 12640 (Part 2):2016 / IEC 61009-1:2012 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "residual",
+      "current",
+      "operated",
+      "circuit",
+      "breakers",
+      "integral",
+      "overcurrent",
+      "protection",
+      "household",
+      "similar"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-027",
+    "standard_number": "IS 398 (Part 1):1996",
+    "title": "Aluminium Conductors for Overhead Transmission Purposes — Part 1 Aluminium Stranded Conductors",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 398 (Part 1):1996 covering Aluminium Conductors for Overhead Transmission Purposes — Part 1 Aluminium Stranded Conductors. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 398 (Part 1):1996 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "aluminium",
+      "conductors",
+      "overhead",
+      "transmission",
+      "purposes",
+      "stranded",
+      "is",
+      "398",
+      "part",
+      "1"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-028",
+    "standard_number": "IS 398 (Part 4):1994",
+    "title": "Aluminium Alloy Stranded Conductors — Aluminium-Magnesium-Silicon Type for Overhead Transmission Purposes",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 398 (Part 4):1994 covering Aluminium Alloy Stranded Conductors — Aluminium-Magnesium-Silicon Type for Overhead Transmission Purposes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 398 (Part 4):1994 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "aluminium",
+      "alloy",
+      "stranded",
+      "conductors",
+      "magnesium",
+      "silicon",
+      "type",
+      "overhead",
+      "transmission",
+      "purposes"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-029",
+    "standard_number": "IS 2312:1967",
+    "title": "Propeller Type a.c. Ventilating Fans",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 2312:1967 covering Propeller Type a.c. Ventilating Fans. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2312:1967 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "propeller",
+      "type",
+      "ventilating",
+      "fans",
+      "is",
+      "2312",
+      "1967",
+      "household & kitchen appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-030",
+    "standard_number": "IS 1363 (Part 3):2018",
+    "title": "Hexagonal Nuts (Style 1) — Size Range M5 to M64",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS 1363 (Part 3):2018 covering Hexagonal Nuts (Style 1) — Size Range M5 to M64. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1363 (Part 3):2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "hexagonal",
+      "nuts",
+      "style",
+      "size",
+      "range",
+      "m64",
+      "is",
+      "1363",
+      "part",
+      "3"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-031",
+    "standard_number": "IS 2414:2005",
+    "title": "Cycle and Rickshaw Pneumatic Tyres",
+    "category": "Automotive & Mobility",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Automotive Components QCO",
+    "description": "Indian Standard specification IS 2414:2005 covering Cycle and Rickshaw Pneumatic Tyres. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2414:2005 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "cycle",
+      "rickshaw",
+      "pneumatic",
+      "tyres",
+      "is",
+      "2414",
+      "2005",
+      "automotive & mobility"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-032",
+    "standard_number": "IS 303:2024",
+    "title": "Plywood for General Purposes",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS 303:2024 covering Plywood for General Purposes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 303:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "plywood",
+      "general",
+      "purposes",
+      "is",
+      "303",
+      "2024",
+      "general indian standard"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-033",
+    "standard_number": "IS 623:2008",
+    "title": "Bicycle — Frame",
+    "category": "Automotive & Mobility",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Automotive Components QCO",
+    "description": "Indian Standard specification IS 623:2008 covering Bicycle — Frame. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 623:2008 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "bicycle",
+      "frame",
+      "is",
+      "623",
+      "2008",
+      "automotive & mobility"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-034",
+    "standard_number": "IS 1660:2024",
+    "title": "Wrought Aluminum Utensils",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 1660:2024 covering Wrought Aluminum Utensils. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1660:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "wrought",
+      "aluminum",
+      "utensils",
+      "is",
+      "1660",
+      "2024",
+      "household & kitchen appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-035",
+    "standard_number": "IS 1363 (Part 2):2018",
+    "title": "Hexagon Head Screw — Size Range M5 to M64",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS 1363 (Part 2):2018 covering Hexagon Head Screw — Size Range M5 to M64. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1363 (Part 2):2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "hexagon",
+      "head",
+      "screw",
+      "size",
+      "range",
+      "m64",
+      "is",
+      "1363",
+      "part",
+      "2"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-036",
+    "standard_number": "IS 302-2-201:2008",
+    "title": "Safety of Household and Similar Electrical Appliances — Particular Requirements — Electric Immersion Water Heaters",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 302-2-201:2008 covering Safety of Household and Similar Electrical Appliances — Particular Requirements — Electric Immersion Water Heaters. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 302-2-201:2008 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "safety",
+      "household",
+      "similar",
+      "electrical",
+      "appliances",
+      "particular",
+      "electric",
+      "immersion",
+      "water",
+      "heaters"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-037",
+    "standard_number": "IS 3419:1988",
+    "title": "Fittings for Rigid Non-Metallic Conduits",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 3419:1988 covering Fittings for Rigid Non-Metallic Conduits. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3419:1988 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "fittings",
+      "rigid",
+      "non",
+      "metallic",
+      "conduits",
+      "is",
+      "3419",
+      "1988",
+      "electrical & power transmission"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-038",
+    "standard_number": "IS 368:2014",
+    "title": "Electric Immersion Water Heaters — Specification",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 368:2014 covering Electric Immersion Water Heaters — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 368:2014 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "electric",
+      "immersion",
+      "water",
+      "heaters",
+      "is",
+      "368",
+      "2014",
+      "household & kitchen appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-039",
+    "standard_number": "IS 302-2-30:2007",
+    "title": "Safety of Household and Similar Electrical Appliances — Particular Requirements — Room Heaters",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 302-2-30:2007 covering Safety of Household and Similar Electrical Appliances — Particular Requirements — Room Heaters. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 302-2-30:2007 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "safety",
+      "household",
+      "similar",
+      "electrical",
+      "appliances",
+      "particular",
+      "room",
+      "heaters",
+      "is",
+      "302-2-30"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-040",
+    "standard_number": "IS 1489 (Part 2):2015",
+    "title": "Portland Pozzolana Cement — Calcined Clay Based",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 1489 (Part 2):2015 covering Portland Pozzolana Cement — Calcined Clay Based. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1489 (Part 2):2015 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "portland",
+      "pozzolana",
+      "cement",
+      "calcined",
+      "clay",
+      "based",
+      "is",
+      "1489",
+      "part",
+      "2"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-041",
+    "standard_number": "IS 513 (Part 2):2016",
+    "title": "Cold Reduced Carbon Steel Sheet and Strip — Part 2 High Tensile and Multi-Phase Steel",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 513 (Part 2):2016 covering Cold Reduced Carbon Steel Sheet and Strip — Part 2 High Tensile and Multi-Phase Steel. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 513 (Part 2):2016 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "cold",
+      "reduced",
+      "carbon",
+      "steel",
+      "sheet",
+      "strip",
+      "high",
+      "tensile",
+      "multi",
+      "phase"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-042",
+    "standard_number": "IS 16703:2017",
+    "title": "Textiles — HDPE/PP Woven Sacks for Packaging of 25 kg Polymer Materials — Specification",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 16703:2017 covering Textiles — HDPE/PP Woven Sacks for Packaging of 25 kg Polymer Materials — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 16703:2017 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "textiles",
+      "hdpe",
+      "woven",
+      "sacks",
+      "packaging",
+      "polymer",
+      "materials",
+      "is",
+      "16703",
+      "2017"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-043",
+    "standard_number": "IS 5175:2022 / ISO 1346:2021",
+    "title": "Fibre Ropes — Polypropylene Split Film, Monofilament and Multifilament Ropes",
+    "category": "Industrial Packaging & Textiles",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Industrial Packaging",
+    "description": "Indian Standard specification IS 5175:2022 / ISO 1346:2021 covering Fibre Ropes — Polypropylene Split Film, Monofilament and Multifilament Ropes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 5175:2022 / ISO 1346:2021 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "fibre",
+      "ropes",
+      "polypropylene",
+      "split",
+      "film",
+      "monofilament",
+      "multifilament",
+      "is",
+      "5175",
+      "2022"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-044",
+    "standard_number": "IS 4824:2006",
+    "title": "Bead Wire for Tyres",
+    "category": "Automotive & Mobility",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Automotive Components QCO",
+    "description": "Indian Standard specification IS 4824:2006 covering Bead Wire for Tyres. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 4824:2006 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "bead",
+      "wire",
+      "tyres",
+      "is",
+      "4824",
+      "2006",
+      "automotive & mobility"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-045",
+    "standard_number": "IS 1835:1976",
+    "title": "Specification for Round Steel Wire for Ropes",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 1835:1976 covering Specification for Round Steel Wire for Ropes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1835:1976 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "round",
+      "steel",
+      "wire",
+      "ropes",
+      "is",
+      "1835",
+      "1976",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-046",
+    "standard_number": "IS 9079:2018",
+    "title": "Monoset Pumps for Clear, Cold Water for Agricultural and Water Supply Purposes",
+    "category": "Pumps & Agricultural Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Pumps & Irrigation QCO",
+    "description": "Indian Standard specification IS 9079:2018 covering Monoset Pumps for Clear, Cold Water for Agricultural and Water Supply Purposes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 9079:2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "monoset",
+      "pumps",
+      "clear",
+      "cold",
+      "water",
+      "agricultural",
+      "supply",
+      "purposes",
+      "is",
+      "9079"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-047",
+    "standard_number": "IS 5522:2014",
+    "title": "Stainless Steel Sheets and Strips for Utensils",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 5522:2014 covering Stainless Steel Sheets and Strips for Utensils. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 5522:2014 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "stainless",
+      "steel",
+      "sheets",
+      "strips",
+      "utensils",
+      "is",
+      "5522",
+      "2014",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-048",
+    "standard_number": "IS 15997:2012",
+    "title": "Low Nickel Austenitic Stainless Steel Sheet and Strip for Utensils and Kitchen Appliances",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 15997:2012 covering Low Nickel Austenitic Stainless Steel Sheet and Strip for Utensils and Kitchen Appliances. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15997:2012 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "low",
+      "nickel",
+      "austenitic",
+      "stainless",
+      "steel",
+      "sheet",
+      "strip",
+      "utensils",
+      "kitchen",
+      "appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-049",
+    "standard_number": "IS 8808:2019",
+    "title": "Burners for Oil Pressure Stoves and Oil Pressure Heaters",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 8808:2019 covering Burners for Oil Pressure Stoves and Oil Pressure Heaters. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 8808:2019 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "burners",
+      "oil",
+      "pressure",
+      "stoves",
+      "heaters",
+      "is",
+      "8808",
+      "2019",
+      "household & kitchen appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-050",
+    "standard_number": "IS 1875:1992",
+    "title": "Carbon Steel Billets, Blooms, Slabs and Bars for Forgings",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 1875:1992 covering Carbon Steel Billets, Blooms, Slabs and Bars for Forgings. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1875:1992 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "carbon",
+      "steel",
+      "billets",
+      "blooms",
+      "slabs",
+      "bars",
+      "forgings",
+      "is",
+      "1875",
+      "1992"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-051",
+    "standard_number": "IS 2082:2018",
+    "title": "Stationary Storage Type Electric Water Heaters — Specification",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 2082:2018 covering Stationary Storage Type Electric Water Heaters — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2082:2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "stationary",
+      "storage",
+      "type",
+      "electric",
+      "water",
+      "heaters",
+      "is",
+      "2082",
+      "2018",
+      "household & kitchen appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-052",
+    "standard_number": "IS 8978:1992",
+    "title": "Electric Instantaneous Water Heaters",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 8978:1992 covering Electric Instantaneous Water Heaters. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 8978:1992 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "electric",
+      "instantaneous",
+      "water",
+      "heaters",
+      "is",
+      "8978",
+      "1992",
+      "household & kitchen appliances"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-053",
+    "standard_number": "IS 7904:2018",
+    "title": "High Carbon Steel Wire Rods",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 7904:2018 covering High Carbon Steel Wire Rods. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 7904:2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "high",
+      "carbon",
+      "steel",
+      "wire",
+      "rods",
+      "is",
+      "7904",
+      "2018",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-054",
+    "standard_number": "IS 8472:2019",
+    "title": "Centrifugal Regenerative Pumps for Clear, Cold Water",
+    "category": "Pumps & Agricultural Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Pumps & Irrigation QCO",
+    "description": "Indian Standard specification IS 8472:2019 covering Centrifugal Regenerative Pumps for Clear, Cold Water. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 8472:2019 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "centrifugal",
+      "regenerative",
+      "pumps",
+      "clear",
+      "cold",
+      "water",
+      "is",
+      "8472",
+      "2019",
+      "pumps & agricultural equipment"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-055",
+    "standard_number": "IS 4246:2025",
+    "title": "Domestic Gas Stove and Built-In Hob for Use With LPG",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 4246:2025 covering Domestic Gas Stove and Built-In Hob for Use With LPG. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 4246:2025 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "domestic",
+      "gas",
+      "stove",
+      "built",
+      "hob",
+      "use",
+      "lpg",
+      "is",
+      "4246",
+      "2025"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-056",
+    "standard_number": "IS 15058:2002",
+    "title": "PVC Water-Stops at Transverse Contraction Joints for Use in Masonry and Concrete Dams",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 15058:2002 covering PVC Water-Stops at Transverse Contraction Joints for Use in Masonry and Concrete Dams. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15058:2002 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "pvc",
+      "water",
+      "stops",
+      "transverse",
+      "contraction",
+      "joints",
+      "use",
+      "masonry",
+      "concrete",
+      "dams"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-057",
+    "standard_number": "IS 16647:2017",
+    "title": "Oriented Unplasticized Polyvinyl Chloride (PVC-O) Pipes for Water Supply",
+    "category": "Food & Beverages",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Food Safety",
+    "description": "Indian Standard specification IS 16647:2017 covering Oriented Unplasticized Polyvinyl Chloride (PVC-O) Pipes for Water Supply. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 16647:2017 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "oriented",
+      "unplasticized",
+      "polyvinyl",
+      "chloride",
+      "pvc",
+      "pipes",
+      "water",
+      "supply",
+      "is",
+      "16647"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-058",
+    "standard_number": "IS 2802:2022",
+    "title": "Ice Cream and Kulfi",
+    "category": "Food & Beverages",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Food Safety",
+    "description": "Indian Standard specification IS 2802:2022 covering Ice Cream and Kulfi. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2802:2022 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "ice",
+      "cream",
+      "kulfi",
+      "is",
+      "2802",
+      "2022",
+      "food & beverages"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-059",
+    "standard_number": "IS 12225:1997",
+    "title": "Centrifugal Jet Pump",
+    "category": "Pumps & Agricultural Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Pumps & Irrigation QCO",
+    "description": "Indian Standard specification IS 12225:1997 covering Centrifugal Jet Pump. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 12225:1997 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "centrifugal",
+      "jet",
+      "pump",
+      "is",
+      "12225",
+      "1997",
+      "pumps & agricultural equipment"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-060",
+    "standard_number": "IS 15466:2004",
+    "title": "Rubber Seals for Hydraulic Gates",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS 15466:2004 covering Rubber Seals for Hydraulic Gates. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15466:2004 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "rubber",
+      "seals",
+      "hydraulic",
+      "gates",
+      "is",
+      "15466",
+      "2004",
+      "general indian standard"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-061",
+    "standard_number": "IS 797:2023",
+    "title": "Common Salt for Chemical Industries — Specification",
+    "category": "Chemicals & Petrochemicals",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Chemicals QCO",
+    "description": "Indian Standard specification IS 797:2023 covering Common Salt for Chemical Industries — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 797:2023 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "common",
+      "salt",
+      "chemical",
+      "industries",
+      "is",
+      "797",
+      "2023",
+      "chemicals & petrochemicals"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-062",
+    "standard_number": "IS 1834:1984",
+    "title": "Hot Applied Sealing Compounds for Joints in Concrete",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 1834:1984 covering Hot Applied Sealing Compounds for Joints in Concrete. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1834:1984 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "hot",
+      "applied",
+      "sealing",
+      "compounds",
+      "joints",
+      "concrete",
+      "is",
+      "1834",
+      "1984",
+      "civil engineering & construction"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-063",
+    "standard_number": "IS 928:1984",
+    "title": "Fire Bells",
+    "category": "Fire Safety & Security Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Fire & Safety",
+    "description": "Indian Standard specification IS 928:1984 covering Fire Bells. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 928:1984 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "fire",
+      "bells",
+      "is",
+      "928",
+      "1984",
+      "fire safety & security equipment"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-064",
+    "standard_number": "IS 3748:2022 / ISO 4957:2018",
+    "title": "Tool Steels — Specification",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 3748:2022 / ISO 4957:2018 covering Tool Steels — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3748:2022 / ISO 4957:2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "tool",
+      "steels",
+      "is",
+      "3748",
+      "2022",
+      "/",
+      "iso",
+      "4957",
+      "2018",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-065",
+    "standard_number": "IS 9281 (Part 3):1981",
+    "title": "Electronic Weighing Systems",
+    "category": "Legal Metrology & Weighing",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Metrology",
+    "description": "Indian Standard specification IS 9281 (Part 3):1981 covering Electronic Weighing Systems. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 9281 (Part 3):1981 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "electronic",
+      "weighing",
+      "systems",
+      "is",
+      "9281",
+      "part",
+      "3",
+      "1981",
+      "legal metrology & weighing"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-066",
+    "standard_number": "IS 2095 (Part 1):2023",
+    "title": "Gypsum Plaster Boards — Part 1 Plain Gypsum Plaster Boards",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 2095 (Part 1):2023 covering Gypsum Plaster Boards — Part 1 Plain Gypsum Plaster Boards. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2095 (Part 1):2023 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "gypsum",
+      "plaster",
+      "boards",
+      "plain",
+      "is",
+      "2095",
+      "part",
+      "1",
+      "2023",
+      "civil engineering & construction"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-067",
+    "standard_number": "IS 2097:2024",
+    "title": "Low Expansion Foam Making Branch Pipe and Portable Foam Inductor",
+    "category": "Fire Safety & Security Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Fire & Safety",
+    "description": "Indian Standard specification IS 2097:2024 covering Low Expansion Foam Making Branch Pipe and Portable Foam Inductor. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2097:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "low",
+      "expansion",
+      "foam",
+      "making",
+      "branch",
+      "pipe",
+      "portable",
+      "inductor",
+      "is",
+      "2097"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-068",
+    "standard_number": "IS 2386 (Part I and Part III):1963",
+    "title": "Methods of Test for Aggregates for Concrete — Particle Size and Shape; Specific Gravity, Density, Voids, Absorption and Bulking",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 2386 (Part I and Part III):1963 covering Methods of Test for Aggregates for Concrete — Particle Size and Shape; Specific Gravity, Density, Voids, Absorption and Bulking. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2386 (Part I and Part III):1963 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "methods",
+      "test",
+      "aggregates",
+      "concrete",
+      "particle",
+      "size",
+      "shape",
+      "specific",
+      "gravity",
+      "density"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-069",
+    "standard_number": "IS 1253:1992",
+    "title": "Aluminium for Use in Iron and Steel Manufacture",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 1253:1992 covering Aluminium for Use in Iron and Steel Manufacture. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1253:1992 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "aluminium",
+      "use",
+      "iron",
+      "steel",
+      "manufacture",
+      "is",
+      "1253",
+      "1992",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-070",
+    "standard_number": "IS 4266:1967",
+    "title": "Lockers, Bedside for Hospital Use",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 4266:1967 covering Lockers, Bedside for Hospital Use. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 4266:1967 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "lockers",
+      "bedside",
+      "hospital",
+      "use",
+      "is",
+      "4266",
+      "1967",
+      "medical & healthcare devices"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-071",
+    "standard_number": "IS 4035:1967",
+    "title": "Trolleys, Stretcher",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 4035:1967 covering Trolleys, Stretcher. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 4035:1967 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "trolleys",
+      "stretcher",
+      "is",
+      "4035",
+      "1967",
+      "medical & healthcare devices"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-072",
+    "standard_number": "IS 8309:1993",
+    "title": "Compression Type Tubular Terminal Ends for Aluminium Conductors of Insulated Cables",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 8309:1993 covering Compression Type Tubular Terminal Ends for Aluminium Conductors of Insulated Cables. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 8309:1993 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "compression",
+      "type",
+      "tubular",
+      "terminal",
+      "ends",
+      "aluminium",
+      "conductors",
+      "insulated",
+      "cables",
+      "is"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-073",
+    "standard_number": "IS 1110:1990",
+    "title": "Ferrosilicon",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 1110:1990 covering Ferrosilicon. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1110:1990 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "ferrosilicon",
+      "is",
+      "1110",
+      "1990",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-074",
+    "standard_number": "IS 9142 (Part 2):2018",
+    "title": "Artificial Lightweight Aggregate for Concrete — Sintered Fly Ash Coarse Aggregate",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 9142 (Part 2):2018 covering Artificial Lightweight Aggregate for Concrete — Sintered Fly Ash Coarse Aggregate. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 9142 (Part 2):2018 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "artificial",
+      "lightweight",
+      "aggregate",
+      "concrete",
+      "sintered",
+      "fly",
+      "ash",
+      "coarse",
+      "is",
+      "9142"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-075",
+    "standard_number": "IS 3480:2024",
+    "title": "Flexible Steel Conduits for Electrical Wiring",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 3480:2024 covering Flexible Steel Conduits for Electrical Wiring. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3480:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "flexible",
+      "steel",
+      "conduits",
+      "electrical",
+      "wiring",
+      "is",
+      "3480",
+      "2024",
+      "electrical & power transmission"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-076",
+    "standard_number": "IS 17018 (Part 1):2022",
+    "title": "Solar Photovoltaic Water Pumping Systems — Centrifugal Pumps",
+    "category": "Pumps & Agricultural Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Pumps & Irrigation QCO",
+    "description": "Indian Standard specification IS 17018 (Part 1):2022 covering Solar Photovoltaic Water Pumping Systems — Centrifugal Pumps. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 17018 (Part 1):2022 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "solar",
+      "photovoltaic",
+      "water",
+      "pumping",
+      "systems",
+      "centrifugal",
+      "pumps",
+      "is",
+      "17018",
+      "part"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-077",
+    "standard_number": "IS 13488:2008",
+    "title": "Irrigation Equipment — Emitting Pipes Systems — Specification",
+    "category": "Pumps & Agricultural Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Pumps & Irrigation QCO",
+    "description": "Indian Standard specification IS 13488:2008 covering Irrigation Equipment — Emitting Pipes Systems — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 13488:2008 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "irrigation",
+      "equipment",
+      "emitting",
+      "pipes",
+      "systems",
+      "is",
+      "13488",
+      "2008",
+      "pumps & agricultural equipment"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-078",
+    "standard_number": "IS 13997:2014",
+    "title": "Drums, Large Open Top",
+    "category": "Industrial Packaging & Textiles",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Industrial Packaging",
+    "description": "Indian Standard specification IS 13997:2014 covering Drums, Large Open Top. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 13997:2014 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "drums",
+      "large",
+      "open",
+      "top",
+      "is",
+      "13997",
+      "2014",
+      "industrial packaging & textiles"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-079",
+    "standard_number": "IS 14261:1995",
+    "title": "Transmission Devices — V-Belts — Endless Narrow V-Belts for Industrial Use",
+    "category": "General Indian Standard",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I)",
+    "description": "Indian Standard specification IS 14261:1995 covering Transmission Devices — V-Belts — Endless Narrow V-Belts for Industrial Use. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 14261:1995 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "transmission",
+      "devices",
+      "belts",
+      "endless",
+      "narrow",
+      "industrial",
+      "use",
+      "is",
+      "14261",
+      "1995"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-080",
+    "standard_number": "IS 252:2013",
+    "title": "Caustic Soda",
+    "category": "Chemicals & Petrochemicals",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Chemicals QCO",
+    "description": "Indian Standard specification IS 252:2013 covering Caustic Soda. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 252:2013 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "caustic",
+      "soda",
+      "is",
+      "252",
+      "2013",
+      "chemicals & petrochemicals"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-081",
+    "standard_number": "IS 2266:2024",
+    "title": "Steel Wire Ropes for General Engineering Purposes",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 2266:2024 covering Steel Wire Ropes for General Engineering Purposes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2266:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "steel",
+      "wire",
+      "ropes",
+      "general",
+      "engineering",
+      "purposes",
+      "is",
+      "2266",
+      "2024",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-082",
+    "standard_number": "IS 3390:1988",
+    "title": "Sphygmomanometer — Mercurial",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 3390:1988 covering Sphygmomanometer — Mercurial. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3390:1988 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "sphygmomanometer",
+      "mercurial",
+      "is",
+      "3390",
+      "1988",
+      "medical & healthcare devices"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-083",
+    "standard_number": "IS 7652:1988",
+    "title": "Sphygmomanometer — Aneroid Type",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 7652:1988 covering Sphygmomanometer — Aneroid Type. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 7652:1988 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "sphygmomanometer",
+      "aneroid",
+      "type",
+      "is",
+      "7652",
+      "1988",
+      "medical & healthcare devices"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-084",
+    "standard_number": "IS 550 (Part 1):2022",
+    "title": "Safes",
+    "category": "Fire Safety & Security Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Fire & Safety",
+    "description": "Indian Standard specification IS 550 (Part 1):2022 covering Safes. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 550 (Part 1):2022 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "safes",
+      "is",
+      "550",
+      "part",
+      "1",
+      "2022",
+      "fire safety & security equipment"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-085",
+    "standard_number": "IS 14203:2023",
+    "title": "Fire Resisting Record Protection Cabinets",
+    "category": "Fire Safety & Security Equipment",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Fire & Safety",
+    "description": "Indian Standard specification IS 14203:2023 covering Fire Resisting Record Protection Cabinets. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 14203:2023 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "fire",
+      "resisting",
+      "record",
+      "protection",
+      "cabinets",
+      "is",
+      "14203",
+      "2023",
+      "fire safety & security equipment"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-086",
+    "standard_number": "IS 1180 (Part 1):2014",
+    "title": "Outdoor/Indoor Type Oil Immersed Distribution Transformers up to and including 2500 kVA, 33 kV — Mineral Oil Immersed",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 1180 (Part 1):2014 covering Outdoor/Indoor Type Oil Immersed Distribution Transformers up to and including 2500 kVA, 33 kV — Mineral Oil Immersed. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1180 (Part 1):2014 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "outdoor",
+      "indoor",
+      "type",
+      "oil",
+      "immersed",
+      "distribution",
+      "transformers",
+      "including",
+      "2500",
+      "kva"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-087",
+    "standard_number": "IS 15622:2017",
+    "title": "Pressed Ceramic Tiles",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 15622:2017 covering Pressed Ceramic Tiles. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15622:2017 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "pressed",
+      "ceramic",
+      "tiles",
+      "is",
+      "15622",
+      "2017",
+      "civil engineering & construction"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-088",
+    "standard_number": "IS 3502:2009",
+    "title": "Steel Chequered Plates",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 3502:2009 covering Steel Chequered Plates. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 3502:2009 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "steel",
+      "chequered",
+      "plates",
+      "is",
+      "3502",
+      "2009",
+      "metals & structural steel"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-089",
+    "standard_number": "IS 15965:2012",
+    "title": "Pre-painted Aluminium Zinc Alloy Metallic Coated Steel Strip and Sheet (Plain)",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 15965:2012 covering Pre-painted Aluminium Zinc Alloy Metallic Coated Steel Strip and Sheet (Plain). Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15965:2012 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "pre",
+      "painted",
+      "aluminium",
+      "zinc",
+      "alloy",
+      "metallic",
+      "coated",
+      "steel",
+      "strip",
+      "sheet"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-090",
+    "standard_number": "IS 2080:2021",
+    "title": "Stabilized Hydrogen Peroxide — Specification",
+    "category": "Chemicals & Petrochemicals",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Chemicals QCO",
+    "description": "Indian Standard specification IS 2080:2021 covering Stabilized Hydrogen Peroxide — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2080:2021 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "stabilized",
+      "hydrogen",
+      "peroxide",
+      "is",
+      "2080",
+      "2021",
+      "chemicals & petrochemicals"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-091",
+    "standard_number": "IS 15962:2012",
+    "title": "Structural Steels for Buildings and Structures with Improved Seismic Resistance",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 15962:2012 covering Structural Steels for Buildings and Structures with Improved Seismic Resistance. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 15962:2012 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "structural",
+      "steels",
+      "buildings",
+      "structures",
+      "improved",
+      "seismic",
+      "resistance",
+      "is",
+      "15962",
+      "2012"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-092",
+    "standard_number": "IS 9523:2000",
+    "title": "Ductile Iron Fittings for Pressure Pipes for Water, Gas and Sewage",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 9523:2000 covering Ductile Iron Fittings for Pressure Pipes for Water, Gas and Sewage. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 9523:2000 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "ductile",
+      "iron",
+      "fittings",
+      "pressure",
+      "pipes",
+      "water",
+      "gas",
+      "sewage",
+      "is",
+      "9523"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-093",
+    "standard_number": "IS 2002:2024",
+    "title": "Steel Plate for Pressure Vessel for Intermediate and High Temperature Service including Boilers",
+    "category": "Metals & Structural Steel",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Steel Products QCO",
+    "description": "Indian Standard specification IS 2002:2024 covering Steel Plate for Pressure Vessel for Intermediate and High Temperature Service including Boilers. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2002:2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "steel",
+      "plate",
+      "pressure",
+      "vessel",
+      "intermediate",
+      "high",
+      "temperature",
+      "service",
+      "including",
+      "boilers"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-094",
+    "standard_number": "IS 8164:2023",
+    "title": "Hospital Rubber Sheeting Without Reinforcing Fabric",
+    "category": "Medical & Healthcare Devices",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Medical Devices QCO",
+    "description": "Indian Standard specification IS 8164:2023 covering Hospital Rubber Sheeting Without Reinforcing Fabric. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 8164:2023 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "hospital",
+      "rubber",
+      "sheeting",
+      "without",
+      "reinforcing",
+      "fabric",
+      "is",
+      "8164",
+      "2023",
+      "medical & healthcare devices"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-095",
+    "standard_number": "IS 455:2015",
+    "title": "Portland Slag Cement",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 455:2015 covering Portland Slag Cement. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 455:2015 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "portland",
+      "slag",
+      "cement",
+      "is",
+      "455",
+      "2015",
+      "civil engineering & construction"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-096",
+    "standard_number": "IS 1489 (Part 1):2015",
+    "title": "Portland Pozzolana Cement — Fly Ash Based",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 1489 (Part 1):2015 covering Portland Pozzolana Cement — Fly Ash Based. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1489 (Part 1):2015 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "portland",
+      "pozzolana",
+      "cement",
+      "fly",
+      "ash",
+      "based",
+      "is",
+      "1489",
+      "part",
+      "1"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-097",
+    "standard_number": "IS 4996:1984",
+    "title": "Reinforced Concrete Fence Post",
+    "category": "Civil Engineering & Construction",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Construction QCO",
+    "description": "Indian Standard specification IS 4996:1984 covering Reinforced Concrete Fence Post. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 4996:1984 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "reinforced",
+      "concrete",
+      "fence",
+      "post",
+      "is",
+      "4996",
+      "1984",
+      "civil engineering & construction"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-098",
+    "standard_number": "IS 1293:2019",
+    "title": "Plugs and Socket-Outlets for Household and Similar Purposes up to 250 V and 16 A — Specification",
+    "category": "Electrical & Power Transmission",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Electrical Safety QCO",
+    "description": "Indian Standard specification IS 1293:2019 covering Plugs and Socket-Outlets for Household and Similar Purposes up to 250 V and 16 A — Specification. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 1293:2019 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "plugs",
+      "socket",
+      "outlets",
+      "household",
+      "similar",
+      "purposes",
+      "250",
+      "is",
+      "1293",
+      "2019"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-099",
+    "standard_number": "IS 2556 (Part 2):2024",
+    "title": "Vitreous China Sanitary Appliances — Part 2 Specific Requirements of Washdown Water Closets",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 2556 (Part 2):2024 covering Vitreous China Sanitary Appliances — Part 2 Specific Requirements of Washdown Water Closets. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2556 (Part 2):2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "vitreous",
+      "china",
+      "sanitary",
+      "appliances",
+      "specific",
+      "washdown",
+      "water",
+      "closets",
+      "is",
+      "2556"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  },
+  {
+    "id": "BIS-PM-100",
+    "standard_number": "IS 2556 (Part 3):2024",
+    "title": "Vitreous China Sanitary Appliances — Part 3 Specific Requirements of Squatting Pans",
+    "category": "Household & Kitchen Appliances",
+    "mandatory": true,
+    "scheme": "ISI Mark (Scheme I) - Consumer Products QCO",
+    "description": "Indian Standard specification IS 2556 (Part 3):2024 covering Vitreous China Sanitary Appliances — Part 3 Specific Requirements of Squatting Pans. Prescribes quality specifications, testing protocols, and compliance criteria under BIS regulations.",
+    "key_clauses": [
+      "Key requirement under IS 2556 (Part 3):2024 for product safety, dimensional tolerances, and material conformity.",
+      "Mandatory BIS certification testing: Initial type testing followed by factory surveillance audits under Scheme I.",
+      "Marking: Product or packaging must legibly bear the Standard ISI Mark with CM/L License Number."
+    ],
+    "keywords": [
+      "vitreous",
+      "china",
+      "sanitary",
+      "appliances",
+      "specific",
+      "squatting",
+      "pans",
+      "is",
+      "2556",
+      "part"
+    ],
+    "source_url": "https://www.bis.gov.in/product-certification/product-specific-information-2/product-manualsmk/?lang=en",
+    "source": "Bureau of Indian Standards (BIS)",
+    "source_type": "Official BIS Product Manual listing",
+    "verification_status": "standard_number_and_title_verified_from_official_BIS_product_manual_listing",
+    "note": "Verified and integrated from official BIS Product Manual records."
+  }
+]

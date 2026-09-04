@@ -1,0 +1,95 @@
+{
+  "en": {
+    "sections": [
+      {
+        "heading": "What is Hallmarking?",
+        "body": "Hallmarking is the accurate determination and official recording of the proportionate content of precious metal (Gold & Silver) in jewellery/artefacts. In India, BIS operates the voluntary and mandatory hallmarking schemes under IS 1417 (Gold) and IS 2112 (Silver) to safeguard consumers against adulteration and under-karatage.",
+        "icon_name": "Award"
+      },
+      {
+        "heading": "The 3 Mandatory Marks on Gold Jewellery",
+        "body": "Every genuine hallmarked gold article sold after July 2021 must bear these 3 distinct marks laser-engraved by a BIS-recognized Assaying & Hallmarking Centre (AHC):",
+        "sub_points": [
+          "1. BIS Standard Logo (Triangular shape with BIS inscription)",
+          "2. Purity in Karat and Fineness: 24K999 (99.9%), 23K958 (95.8%), 22K916 (91.6%), 20K833 (83.3%), 18K750 (75.0%), 14K585 (58.5%)",
+          "3. 6-Digit Alphanumeric HUID (Hallmark Unique Identification) code e.g. 'AY786K' or 'AB1234'"
+        ],
+        "icon_name": "CheckCircle"
+      },
+      {
+        "heading": "How Consumers Can Verify HUID via BIS CARE App",
+        "body": "Consumers can instantly verify the authenticity of their gold jewellery by entering the 6-digit HUID code in the official 'BIS CARE' mobile app or portal. It will display:",
+        "sub_points": [
+          "Name and registration number of the Jeweller who got the article hallmarked",
+          "Name and address of the Assaying & Hallmarking Centre (AHC)",
+          "Date of hallmarking and exact purity (e.g. 22 Karat)",
+          "Type of article (e.g., Ring, Bangle, Necklace, Coin)"
+        ],
+        "icon_name": "Smartphone"
+      },
+      {
+        "heading": "Consumer Rights & Purity Testing",
+        "body": "If you suspect the purity of your hallmarked jewellery, you have the right to get it tested at any BIS-recognized Assaying & Hallmarking Centre (AHC) for a nominal fee of ₹45 per article. If found sub-standard, the jeweller is legally bound under the BIS Act 2016 to refund the full differential cost plus testing fees and damages.",
+        "icon_name": "ShieldAlert"
+      }
+    ]
+  },
+  "hi": {
+    "sections": [
+      {
+        "heading": "हॉलमार्किंग क्या है?",
+        "body": "हॉलमार्किंग सोने और चांदी के आभूषणों में शुद्धता और अनुपात का आधिकारिक प्रमाणन है। भारतीय मानक ब्यूरो (BIS) द्वारा उपभोक्ताओं को मिलावट से बचाने के लिए IS 1417 (सोना) और IS 2112 (चांदी) के तहत हॉलमार्किंग अनिवार्य की गई है।",
+        "icon_name": "Award"
+      },
+      {
+        "heading": "सोने के आभूषणों पर 3 अनिवार्य चिन्ह",
+        "body": "जुलाई 2021 के बाद बेचे जाने वाले प्रत्येक हॉलमार्क वाले सोने के आभूषण पर ये 3 लेजर-उत्कीर्ण चिन्ह होने अनिवार्य हैं:",
+        "sub_points": [
+          "1. बीआईएस मानक लोगो (त्रिभुजाकार बीआईएस प्रतीक)",
+          "2. कैरेट और शुद्धता: 24K999, 22K916 (91.6%), 18K750 (75.0%), 14K585 (58.5%)",
+          "3. 6-अंकीय अक्षरांकीय HUID (हॉलमार्क यूनिक आइडेंटिफिकेशन) कोड (उदा. 'AY786K')"
+        ],
+        "icon_name": "CheckCircle"
+      },
+      {
+        "heading": "BIS CARE ऐप के माध्यम से HUID की जांच कैसे करें?",
+        "body": "उपभोक्ता आधिकारिक 'BIS CARE' मोबाइल ऐप में 6-अंकीय HUID कोड दर्ज करके सोने के आभूषण की प्रामाणिकता की तुरंत जांच कर सकते हैं। यह ऐप जौहरी का नाम, हॉलमार्किंग केंद्र, तारीख और वास्तविक शुद्धता दिखाता है।",
+        "icon_name": "Smartphone"
+      },
+      {
+        "heading": "उपभोक्ता अधिकार और शुद्धता परीक्षण",
+        "body": "यदि आपको हॉलमार्क वाले आभूषण की शुद्धता पर संदेह है, तो आप किसी भी बीआईएस-मान्यता प्राप्त केंद्र (AHC) पर केवल ₹45 के शुल्क पर इसका परीक्षण करा सकते हैं। कमी पाए जाने पर जौहरी को हर्जाना देना अनिवार्य है।",
+        "icon_name": "ShieldAlert"
+      }
+    ]
+  },
+  "or": {
+    "sections": [
+      {
+        "heading": "ହଲମାର୍କିଂ (Hallmarking) କ'ଣ?",
+        "body": "ହଲମାର୍କିଂ ହେଉଛି ସୁନା ଏବଂ ରୂପା ଗହଣାରେ ଶୁଦ୍ଧତାର ସରକାରୀ ପ୍ରମାଣୀକରଣ। ଭାରତୀୟ ମାନକ ବ୍ୟୁରୋ (BIS) ଉପଭୋକ୍ତାମାନଙ୍କୁ ଶୋଷଣରୁ ରକ୍ଷା କରିବା ପାଇଁ IS 1417 ଅଧୀନରେ ହଲମାର୍କିଂ ବାଧ୍ୟତାମୂଳକ କରିଛି।",
+        "icon_name": "Award"
+      },
+      {
+        "heading": "ସୁନା ଗହଣାରେ ଥିବା ୩ଟି ବାଧ୍ୟତାମୂଳକ ଚିହ୍ନ",
+        "body": "ପ୍ରତ୍ୟେକ ପ୍ରାମାଣିକ ହଲମାର୍କ ଯୁକ୍ତ ସୁନା ଗହଣାରେ ଏହି ୩ଟି ଚିହ୍ନ ରହିବା ଆବଶ୍ୟକ:",
+        "sub_points": [
+          "୧. BIS ଷ୍ଟାଣ୍ଡାର୍ଡ ଲୋଗୋ (ତ୍ରିଭୁଜାକାର ପ୍ରତୀକ)",
+          "୨. କ୍ୟାରେଟ୍ ଏବଂ ଶୁଦ୍ଧତା: ୨୪K୯୯୯, ୨୨K୯୧୬ (୯୧.୬%), ୧୮K୭୫୦ (୭୫.୦%), ୧୪K୫୮୫",
+          "୩. ୬-ଅଙ୍କ ବିଶିଷ୍ଟ HUID (ହଲମାର୍କ ୟୁନିକ୍ ପରିଚୟ) କୋଡ୍ ଯଥା 'AY786K'"
+        ],
+        "icon_name": "CheckCircle"
+      },
+      {
+        "heading": "BIS CARE ଆପ୍ ମାଧ୍ୟମରେ HUID ଯାଞ୍ଚ",
+        "body": "ଗ୍ରାହକମାନେ ଅଫିସିଆଲ୍ 'BIS CARE' ମୋବାଇଲ୍ ଆପ୍ ବ୍ୟବହାର କରି ୬-ଅଙ୍କିଆ HUID କୋଡ୍ ଦେଇ ସୁନା ଦୋକାନୀ, ହଲମାର୍କିଂ କେନ୍ଦ୍ର ଏବଂ ଶୁଦ୍ଧତା ଯାଞ୍ଚ କରିପାରିବେ।",
+        "icon_name": "Smartphone"
+      },
+      {
+        "heading": "ଗ୍ରାହକଙ୍କ ଅଧିକାର ଓ ପରୀକ୍ଷଣ",
+        "body": "ଶୁଦ୍ଧତା ଉପରେ ସନ୍ଦେହ ଥିଲେ ଯେକୌଣସି BIS ସ୍ୱୀକୃତିପ୍ରାପ୍ତ AHC ରେ ମାତ୍ର ୪୫ ଟଙ୍କା ଦେଇ ପରୀକ୍ଷା କରାଯାଇପାରିବ।",
+        "icon_name": "ShieldAlert"
+      }
+    ]
+  }
+}

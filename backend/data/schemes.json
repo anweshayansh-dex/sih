@@ -1,0 +1,94 @@
+[
+  {
+    "id": "isi-mark",
+    "name": "Product Certification Scheme (ISI Mark Scheme - Scheme I)",
+    "short_name": "ISI Mark",
+    "eligibility": "Domestic and Foreign manufacturers with in-house testing facilities and quality control infrastructure.",
+    "process_steps": [
+      "Step 1: Submission of online application on Manakonline portal with Form-V and prescribed application fee.",
+      "Step 2: Preliminary factory inspection by BIS auditor to verify manufacturing process, QC equipment, and testing competence.",
+      "Step 3: Drawing of independent test samples during inspection and testing in BIS recognized laboratory.",
+      "Step 4: Scrutiny of factory audit report and matching lab test results against the relevant Indian Standard.",
+      "Step 5: Grant of License (CML) and approval of marking fee upon submission of performance bank guarantee."
+    ],
+    "approx_timeline": "Normal Option: 3 to 4 months | Simplified Option (for select domestic products): 30 days",
+    "applicable_products": ["Packaged Drinking Water", "LPG Cylinders", "Helmets", "TMT Steel", "Cement", "Toys", "Safety Footwear"],
+    "fee_structure": "Application Fee: ₹1,000 | Inspection Charges: ₹7,000/man-day + Lab testing fees at actuals + Annual Minimum Marking Fee",
+    "document_checklist": [
+      "Factory registration / DIC / Udhyam Certificate",
+      "Process flow chart and manufacturing machinery list",
+      "List of in-house testing equipment with valid calibration certificates",
+      "Consent letter from CEO / Authorized signatory",
+      "Test certificate of raw materials and packaging materials"
+    ],
+    "badge_color": "blue"
+  },
+  {
+    "id": "crs-scheme",
+    "name": "Compulsory Registration Scheme (CRS - Scheme II)",
+    "short_name": "CRS (Electronics & IT)",
+    "eligibility": "Manufacturers of IT goods, electronics, audio-video equipment, solar PV modules notified under MeitY and MNRE QCOs.",
+    "process_steps": [
+      "Step 1: Register on the dedicated CRS portal (crsbis.in).",
+      "Step 2: Submit product sample to a BIS-recognized NABL accredited laboratory for testing as per relevant IS standard.",
+      "Step 3: Obtain valid test report issued within 90 days from the accredited laboratory.",
+      "Step 4: Submit online application on CRS portal attaching test reports, Brand Authorization letter, and undertaking.",
+      "Step 5: Grant of Registration Number (R-XXXXXXXX) and permission to affix Standard Mark (Self-declaration of conformity)."
+    ],
+    "approx_timeline": "15 to 20 working days post test report submission",
+    "applicable_products": ["Laptops", "Mobile Phones", "Power Banks", "LED Lights & Drivers", "Solar Inverters & PV Modules", "Smart Watches", "Bluetooth Speakers"],
+    "fee_structure": "Application Fee: ₹53,000 (includes registration fee for 2 years) per standard per brand",
+    "document_checklist": [
+      "Valid BIS Recognized Lab Test Report (less than 90 days old)",
+      "Brand Registration Certificate / Trademark document",
+      "Authorized Indian Representative (AIR) document for foreign entities",
+      "Affidavit cum Undertaking for CRS compliance"
+    ],
+    "badge_color": "green"
+  },
+  {
+    "id": "fmcs-scheme",
+    "name": "Foreign Manufacturers Certification Scheme (FMCS)",
+    "short_name": "FMCS (Imports)",
+    "eligibility": "Overseas manufacturing units producing goods designated under mandatory Indian Quality Control Orders (QCOs) wanting to export to India.",
+    "process_steps": [
+      "Step 1: Submission of Form-VI with requisite fee ($1000 USD) and nomination of an Authorized Indian Representative (AIR).",
+      "Step 2: Pre-audit document scrutiny by BIS Foreign Manufacturers Department (FMCD) in New Delhi.",
+      "Step 3: On-site overseas factory inspection by designated BIS technical officers.",
+      "Step 4: Drawing of samples for testing in India in designated BIS labs.",
+      "Step 5: Execution of Performance Bank Guarantee ($10,000 USD), payment of license fee, and grant of CML license."
+    ],
+    "approx_timeline": "4 to 6 months depending on visa clearances and sample transit",
+    "applicable_products": ["Steel products", "Chemicals", "Tyres", "Toys", "Cement", "Medical devices under mandatory list"],
+    "fee_structure": "Application: $1,000 USD | Audit per-diem: Actuals + $350 USD/day | Marking fee: as per product schedule",
+    "document_checklist": [
+      "Overseas factory layout & local government manufacturing license",
+      "Quality manual and calibration records",
+      "AIR appointment agreement and Indian address proof",
+      "Bank solvency certificate"
+    ],
+    "badge_color": "amber"
+  },
+  {
+    "id": "hallmarking-scheme",
+    "name": "Hallmarking Scheme for Precious Metals (Gold & Silver)",
+    "short_name": "Hallmarking",
+    "eligibility": "Assaying and Hallmarking Centres (AHC) and registered retail/wholesale jewellers across mandatory hallmarking districts in India.",
+    "process_steps": [
+      "Step 1: Jewellers register online on Manakonline portal (zero fee for micro-enterprises with turnover < 40 lakh).",
+      "Step 2: Jeweller sends un-hallmarked jewellery lots to an automated BIS-recognized Assaying and Hallmarking Centre (AHC).",
+      "Step 3: AHC conducts sampling, X-ray fluorescence (XRF) screening, and Fire Assay (IS 1418).",
+      "Step 4: AHC generates unique 6-digit alphanumeric Hallmark Unique Identification (HUID) code via BIS server.",
+      "Step 5: Laser marking of 3 marks: (1) BIS Standard Logo, (2) Purity in Karat e.g. 22K916, (3) 6-digit HUID code."
+    ],
+    "approx_timeline": "Jeweller Registration: Instant / 24 hours | Lot Hallmarking at AHC: 4 to 6 hours",
+    "applicable_products": ["Gold Jewellery", "Gold Coins & Bullion", "Silver Artefacts", "Silver Utensils"],
+    "fee_structure": "Jeweller registration fee: ₹0 for turnover < ₹40 lakh, ₹2,500 to ₹8,000 for larger jewellers. Hallmarking fee: ₹45 per gold article.",
+    "document_checklist": [
+      "GST Registration Certificate",
+      "PAN Card & Aadhaar of proprietor/directors",
+      "Shop address proof / Trade license"
+    ],
+    "badge_color": "yellow"
+  }
+]

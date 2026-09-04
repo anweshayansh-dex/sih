@@ -1,0 +1,140 @@
+[
+  {
+    "name": "Central Laboratory, Bureau of Indian Standards (CLD)",
+    "address": "Plot No. 20/9, Site IV, Sahibabad Industrial Area, Ghaziabad, Uttar Pradesh - 201010",
+    "accreditation": "NABL Accredited (ISO/IEC 17025) & Apex BIS Laboratory",
+    "contact": "Phone: +91-120-2771077 | Email: cl@bis.gov.in",
+    "state": "Uttar Pradesh",
+    "city": "Ghaziabad",
+    "tested_products": [
+      "Packaged Drinking Water",
+      "Chemicals & Fertilizers",
+      "LPG Cylinders & Valves",
+      "Electrical Appliances",
+      "Cables & Wires",
+      "Mechanical Hardware",
+      "Toys (IS 9873)"
+    ],
+    "nabl_number": "TC-5012",
+    "lab_type": "BIS Central Lab"
+  },
+  {
+    "name": "Western Regional Laboratory, BIS Mumbai (WROL)",
+    "address": "Manakalaya, E-9, MIDC, Andheri (East), Mumbai, Maharashtra - 400093",
+    "accreditation": "NABL Accredited (ISO/IEC 17025)",
+    "contact": "Phone: +91-22-28329295 | Email: wrol@bis.gov.in",
+    "state": "Maharashtra",
+    "city": "Mumbai",
+    "tested_products": [
+      "Textiles & Polymers",
+      "Packaged Drinking Water",
+      "Food & Agriculture Products",
+      "Gold & Precious Metals (Fire Assay)",
+      "Helmets (IS 4151)",
+      "Safety Footwear (IS 15298)"
+    ],
+    "nabl_number": "TC-5431",
+    "lab_type": "BIS Regional Lab"
+  },
+  {
+    "name": "Southern Regional Laboratory, BIS Chennai (SROL)",
+    "address": "CIT Campus, 4th Cross Road, Taramani, Chennai, Tamil Nadu - 600113",
+    "accreditation": "NABL Accredited (ISO/IEC 17025)",
+    "contact": "Phone: +91-44-22541442 | Email: srol@bis.gov.in",
+    "state": "Tamil Nadu",
+    "city": "Chennai",
+    "tested_products": [
+      "Electrical Motors & Pumps",
+      "Batteries & Lithium Cells (IS 16046)",
+      "Solar PV Modules (IS 14286)",
+      "Cables & Conductors",
+      "Cement & Concrete"
+    ],
+    "nabl_number": "TC-5219",
+    "lab_type": "BIS Regional Lab"
+  },
+  {
+    "name": "Eastern Regional Laboratory, BIS Kolkata (EROL)",
+    "address": "1/14, C.I.T. Scheme VII (M), V.I.P. Road, Kankurgachi, Kolkata, West Bengal - 700054",
+    "accreditation": "NABL Accredited (ISO/IEC 17025)",
+    "contact": "Phone: +91-33-23207080 | Email: erol@bis.gov.in",
+    "state": "West Bengal",
+    "city": "Kolkata",
+    "tested_products": [
+      "TMT Rebars & Structural Steel (IS 1786)",
+      "Jute & Packaging",
+      "Pipes & Fittings",
+      "Cement & Building Materials",
+      "Tea & Food Products"
+    ],
+    "nabl_number": "TC-5108",
+    "lab_type": "BIS Regional Lab"
+  },
+  {
+    "name": "Northern Regional Laboratory, BIS Mohali (NROL)",
+    "address": "Sector 64, Phase X, SAS Nagar, Mohali, Punjab - 160062",
+    "accreditation": "NABL Accredited (ISO/IEC 17025)",
+    "contact": "Phone: +91-172-2294100 | Email: nrol@bis.gov.in",
+    "state": "Punjab",
+    "city": "Mohali",
+    "tested_products": [
+      "Agricultural Implements",
+      "Food Products & Animal Feeds",
+      "Sanitary Hardware",
+      "Transformers & Switchgears",
+      "Water Purification Systems"
+    ],
+    "nabl_number": "TC-5321",
+    "lab_type": "BIS Regional Lab"
+  },
+  {
+    "name": "BIS Recognized Electronics Testing Laboratory (ERTL North)",
+    "address": "S-Block, Okhla Industrial Area, Phase II, New Delhi - 110020",
+    "accreditation": "STQC Directorate / NABL / BIS Recognized for CRS",
+    "contact": "Phone: +91-11-26386219 | Email: ertlnorth@stqc.nic.in",
+    "state": "Delhi",
+    "city": "New Delhi",
+    "tested_products": [
+      "Information Technology Equipment (IS 13252)",
+      "LED Luminaires & Drivers (IS 16102, IS 15885)",
+      "Audio/Video Equipment (IS 616)",
+      "Lithium Power Banks & Batteries",
+      "Smart Meters"
+    ],
+    "nabl_number": "TC-6188",
+    "lab_type": "BIS Recognized (Private/Govt)"
+  },
+  {
+    "name": "Central Power Research Institute (CPRI) Bengaluru",
+    "address": "Prof. Sir C.V. Raman Road, Sadashivanagar, Bengaluru, Karnataka - 560080",
+    "accreditation": "NABL Accredited & BIS Recognized High Voltage Lab",
+    "contact": "Phone: +91-80-22072222 | Email: cpri@nic.in",
+    "state": "Karnataka",
+    "city": "Bengaluru",
+    "tested_products": [
+      "High Voltage Transformers",
+      "EV Chargers & EVSE (IS 17273)",
+      "Solar Inverters & Power Conditioners",
+      "Energy Meters (Smart Meters)",
+      "High Voltage Power Cables"
+    ],
+    "nabl_number": "TC-5002",
+    "lab_type": "BIS Recognized (Private/Govt)"
+  },
+  {
+    "name": "BIS Bhubaneswar Branch & Testing Cell",
+    "address": "62/1, Unit VIII, Nayapalli, Bhubaneswar, Odisha - 751012",
+    "accreditation": "BIS Branch Office & Quality Control Cell",
+    "contact": "Phone: +91-674-2396117 | Email: bnbo@bis.gov.in",
+    "state": "Odisha",
+    "city": "Bhubaneswar",
+    "tested_products": [
+      "Packaged Drinking Water",
+      "Mineral Processing Materials",
+      "Steel & Cement Verification",
+      "Gold Hallmarking AHC Surveillance"
+    ],
+    "nabl_number": "TC-7041",
+    "lab_type": "BIS Regional Lab"
+  }
+]
