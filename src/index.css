@@ -1,1 +1,138 @@
 @import "tailwindcss";
+
+/* -------------------------------------------------------------
+ * Print-Friendly Stylesheet for Official Record-Keeping & PDF Export
+ * ------------------------------------------------------------- */
+
+@media screen {
+  .print-only {
+    display: none !important;
+  }
+}
+
+@media print {
+  @page {
+    size: A4 portrait;
+    margin: 15mm 12mm 15mm 12mm;
+  }
+
+  /* Reset layout constraints for natural multi-page flow */
+  html,
+  body,
+  #root,
+  main,
+  #main-content {
+    background: #ffffff !important;
+    color: #111827 !important;
+    height: auto !important;
+    min-height: 0 !important;
+    max-height: none !important;
+    overflow: visible !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-size: 11pt !important;
+    line-height: 1.5 !important;
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Hide screen-only interactive chrome */
+  .no-print,
+  #utility-bar,
+  #gov-header,
+  #gov-footer,
+  aside,
+  nav,
+  header:not(.print-header),
+  footer:not(.print-footer),
+  .chat-input-container,
+  .chat-input-area,
+  .suggestion-chips,
+  .assistant-actions-bar,
+  .typewriter-cursor,
+  .skip-typing-btn,
+  button:not(.print-allow),
+  input,
+  textarea,
+  [role="dialog"] {
+    display: none !important;
+  }
+
+  /* Display print-only official memorandum elements */
+  .print-only {
+    display: block !important;
+    visibility: visible !important;
+  }
+
+  /* Expand the chat container cleanly across pages */
+  #consumer-chat-box,
+  .chat-scroll-area {
+    display: block !important;
+    height: auto !important;
+    max-height: none !important;
+    overflow: visible !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    background: transparent !important;
+  }
+
+  /* Individual message bubbles print cleanly */
+  .chat-message-row {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    display: block !important;
+    margin-bottom: 14px !important;
+    width: 100% !important;
+  }
+
+  .chat-message-bubble {
+    border: 1px solid #d1d5db !important;
+    border-radius: 6px !important;
+    padding: 12px 14px !important;
+    box-shadow: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    background: #ffffff !important;
+    color: #111827 !important;
+  }
+
+  .chat-message-user {
+    background-color: #f8fafc !important;
+    border-left: 5px solid #0B3D6B !important;
+  }
+
+  .chat-message-assistant {
+    background-color: #ffffff !important;
+    border-left: 5px solid #138808 !important;
+  }
+
+  /* Sources section inside printable message */
+  .print-sources-box {
+    margin-top: 10px !important;
+    padding-top: 8px !important;
+    border-top: 1px dashed #9ca3af !important;
+    font-size: 10pt !important;
+    color: #1e3a8a !important;
+  }
+
+  /* Official print header styling */
+  .print-official-header {
+    border-bottom: 2px solid #0B3D6B !important;
+    padding-bottom: 12px !important;
+    margin-bottom: 16px !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+
+  .print-official-footer {
+    margin-top: 24px !important;
+    padding-top: 12px !important;
+    border-top: 2px solid #0B3D6B !important;
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+    font-size: 9pt !important;
+    color: #4b5563 !important;
+  }
+}

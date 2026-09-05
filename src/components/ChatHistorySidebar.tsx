@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Plus, MessageSquare, Trash2, ChevronRight, X, Loader2, Sparkles, AlertTriangle } from 'lucide-react';
+import { Plus, MessageSquare, Trash2, ChevronRight, X, Loader2, Sparkles, AlertTriangle, Printer } from 'lucide-react';
 import { Conversation } from '../lib/supabase';
 
 interface ChatHistorySidebarProps {
@@ -8,6 +8,7 @@ interface ChatHistorySidebarProps {
   onSelectConversation: (id: string) => void;
   onNewChat: () => void;
   onDeleteConversation: (id: string) => void;
+  onPrintConversation?: (conv: Conversation) => void;
   isLoading: boolean;
   isOpenMobile: boolean;
   onCloseMobile: () => void;
@@ -19,6 +20,7 @@ export const ChatHistorySidebar: React.FC<ChatHistorySidebarProps> = ({
   onSelectConversation,
   onNewChat,
   onDeleteConversation,
+  onPrintConversation,
   isLoading,
   isOpenMobile,
   onCloseMobile
@@ -122,15 +124,31 @@ export const ChatHistorySidebar: React.FC<ChatHistorySidebarProps> = ({
                     </button>
                   </div>
                 ) : (
-                  <button
-                    onClick={(e) => handleDeleteClick(e, conv.id)}
-                    className={`opacity-0 group-hover:opacity-100 p-1 rounded transition ${
-                      isActive ? 'hover:bg-white/20 text-white/80 hover:text-white' : 'hover:bg-gray-200 text-gray-400 hover:text-red-600'
-                    }`}
-                    title="Delete conversation"
-                  >
-                    <Trash2 className="w-3.5 h-3.5" />
-                  </button>
+                  <div className="flex items-center gap-0.5 opacity-0 group-hover:opacity-100 transition">
+                    {onPrintConversation && (
+                      <button
+                        onClick={(e) => {
+                          e.stopPropagation();
+                          onPrintConversation(conv);
+                        }}
+                        className={`p-1 rounded transition cursor-pointer ${
+                          isActive ? 'hover:bg-white/20 text-white/80 hover:text-white' : 'hover:bg-gray-200 text-gray-400 hover:text-[#0B3D6B]'
+                        }`}
+                        title="Print or Save this conversation as PDF"
+                      >
+                        <Printer className="w-3.5 h-3.5" />
+                      </button>
+                    )}
+                    <button
+                      onClick={(e) => handleDeleteClick(e, conv.id)}
+                      className={`p-1 rounded transition cursor-pointer ${
+                        isActive ? 'hover:bg-white/20 text-white/80 hover:text-white' : 'hover:bg-gray-200 text-gray-400 hover:text-red-600'
+                      }`}
+                      title="Delete conversation"
+                    >
+                      <Trash2 className="w-3.5 h-3.5" />
+                    </button>
+                  </div>
                 )}
               </div>
             );

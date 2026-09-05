@@ -58,6 +58,8 @@ export interface TranslationDictionary {
   listeningVoice: string;
   stopVoiceInput: string;
   voiceNotSupported: string;
+  printRecord: string;
+  printRecordDesc: string;
 }
 
 export const translations: Record<LanguageCode, TranslationDictionary> = {
@@ -113,7 +115,9 @@ export const translations: Record<LanguageCode, TranslationDictionary> = {
     voiceInputTooltip: "Ask with voice (Speech Recognition)",
     listeningVoice: "Listening... Speak your question now",
     stopVoiceInput: "Stop listening",
-    voiceNotSupported: "Voice recognition is not supported in this browser. Please try Chrome or Edge."
+    voiceNotSupported: "Voice recognition is not supported in this browser. Please try Chrome or Edge.",
+    printRecord: "Print / Save PDF",
+    printRecordDesc: "Official Record & PDF Export"
   },
   hi: {
     appName: "बीआईएस सहायक",
@@ -167,7 +171,9 @@ export const translations: Record<LanguageCode, TranslationDictionary> = {
     voiceInputTooltip: "आवाज से प्रश्न पूछें (स्पीच रिकग्निशन)",
     listeningVoice: "सुन रहा हूँ... अब अपना प्रश्न बोलें",
     stopVoiceInput: "आवाज इनपुट रोकें",
-    voiceNotSupported: "इस ब्राउज़र में वॉयस रिकग्निशन समर्थित नहीं है। कृपया Chrome या Edge आज़माएं।"
+    voiceNotSupported: "इस ब्राउज़र में वॉयस रिकग्निशन समर्थित नहीं है। कृपया Chrome या Edge आज़माएं।",
+    printRecord: "प्रिंट / पीडीएफ सेव करें",
+    printRecordDesc: "आधिकारिक रिकॉर्ड और पीडीएफ निर्यात"
   },
   or: {
     appName: "BIS ସହାୟକ",
@@ -221,6 +227,8 @@ export const translations: Record<LanguageCode, TranslationDictionary> = {
     voiceInputTooltip: "ଭଏସ୍ ମାଧ୍ୟମରେ ପ୍ରଶ୍ନ ପଚାରନ୍ତୁ",
     listeningVoice: "ଶୁଣୁଛି... ବର୍ତ୍ତମାନ ଆପଣଙ୍କ ପ୍ରଶ୍ନ କୁହନ୍ତୁ",
     stopVoiceInput: "ଭଏସ୍ ରେକର୍ଡିଂ ବନ୍ଦ କରନ୍ତୁ",
-    voiceNotSupported: "ଏହି ବ୍ରାଉଜରରେ ଭଏସ୍ ରିକଗ୍ନିସନ୍ ସମର୍ଥିତ ନୁହେଁ। ଦୟାକରି Chrome କିମ୍ବା Edge ବ୍ୟବହାର କରନ୍ତୁ।"
+    voiceNotSupported: "ଏହି ବ୍ରାଉଜରରେ ଭଏସ୍ ରିକଗ୍ନିସନ୍ ସମର୍ଥିତ ନୁହେଁ। ଦୟାକରି Chrome କିମ୍ବା Edge ବ୍ୟବହାର କରନ୍ତୁ।",
+    printRecord: "ପ୍ରିଣ୍ଟ / PDF ସେଭ୍ କରନ୍ତୁ",
+    printRecordDesc: "ସରକାରୀ ରେକର୍ଡ ଏବଂ PDF ଡାଉନଲୋଡ୍"
   }
 };

@@ -8,6 +8,7 @@ import { translations } from '../translations';
 import { Conversation, getMessages, saveMessageRecord, createConversation } from '../lib/supabase';
 import { ChatHistorySidebar } from './ChatHistorySidebar';
 import { TypewriterText } from './TypewriterText';
+import { PrintRecordModal } from './PrintRecordModal';
 import {
   Send,
   Sparkles,
@@ -29,7 +30,8 @@ import {
   AlertCircle,
   Mic,
   MicOff,
-  X
+  X,
+  Printer
 } from 'lucide-react';
 
 interface ChatMessage {
@@ -88,6 +90,7 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
   const [speakingMsgId, setSpeakingMsgId] = useState<string | null>(null);
   const [feedbackToast, setFeedbackToast] = useState<string | null>(null);
   const [completedTypingMsgs, setCompletedTypingMsgs] = useState<Record<string, boolean>>({});
+  const [isPrintModalOpen, setIsPrintModalOpen] = useState(false);
   const lastScrollTimeRef = useRef<number>(0);
 
   const handleCharacterTyped = () => {
@@ -559,6 +562,10 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
         onSelectConversation={onSelectConversation}
         onNewChat={onNewChat}
         onDeleteConversation={onDeleteConversation}
+        onPrintConversation={(conv) => {
+          onSelectConversation(conv.id);
+          setIsPrintModalOpen(true);
+        }}
         isLoading={isLoadingHistory}
         isOpenMobile={isMobileSidebarOpen}
         onCloseMobile={onCloseMobileSidebar}
@@ -606,6 +613,19 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
 
             <div className="flex items-center gap-2">
               <button
+                onClick={() => setIsPrintModalOpen(true)}
+                className={`text-xs px-2.5 py-1.5 border flex items-center gap-1.5 cursor-pointer font-medium transition shadow-2xs ${
+                  highContrast
+                    ? 'border-yellow-500 text-yellow-300 hover:bg-yellow-950'
+                    : 'border-gray-300 text-gray-700 bg-white hover:bg-blue-50/50 hover:text-[#0B3D6B] hover:border-[#0B3D6B]'
+                }`}
+                title="Print or Save Consultation Record as PDF for Official Records"
+              >
+                <Printer className="w-3.5 h-3.5 text-[#FF9933]" />
+                <span>{t.printRecord || 'Print / Save PDF'}</span>
+              </button>
+
+              <button
                 onClick={onNewChat}
                 className="text-xs text-gray-600 hover:text-[#0B3D6B] p-1.5 hover:bg-gray-200 flex items-center gap-1 cursor-pointer font-medium"
                 title="Start New Chat"
@@ -618,7 +638,7 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
 
           {/* Suggestion Chips Banner */}
           <div
-            className={`px-3 py-2 border-b overflow-x-auto whitespace-nowrap flex items-center gap-2 scrollbar-thin ${
+            className={`px-3 py-2 border-b overflow-x-auto whitespace-nowrap flex items-center gap-2 scrollbar-thin suggestion-chips no-print ${
               highContrast ? 'bg-[#181818] border-yellow-600' : 'bg-gray-100 border-gray-200'
             }`}
           >
@@ -645,25 +665,61 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
           </div>
 
           {/* Messages Scroll Area */}
-          <div className="flex-1 p-4 overflow-y-auto space-y-4 bg-gray-50/50">
+          <div className="flex-1 p-4 overflow-y-auto space-y-4 bg-gray-50/50 chat-scroll-area">
+            {/* Official Print-Only Memorandum Header (Rendered on paper & exported PDF) */}
+            <div className="print-only print-official-header mb-6 pb-4 border-b-2 border-[#0B3D6B]">
+              <div className="flex justify-between items-center text-[10px] font-bold text-gray-600 uppercase border-b pb-2 mb-3">
+                <span>GOVERNMENT OF INDIA &bull; MINISTRY OF CONSUMER AFFAIRS, FOOD &amp; PUBLIC DISTRIBUTION</span>
+                <span>BIS ACT, 2016 COMPLIANT RECORD</span>
+              </div>
+              <h1 className="text-2xl font-black text-[#0B3D6B] tracking-tight">BUREAU OF INDIAN STANDARDS (BIS)</h1>
+              <p className="text-sm font-bold text-gray-800">
+                BIS Sahayak &mdash; Official Citizen Consultation &amp; Statutory Standards Record
+              </p>
+              <div className="grid grid-cols-2 gap-2 mt-3 p-3 bg-gray-50 border border-gray-300 rounded text-xs">
+                <div>
+                  <span className="font-bold text-gray-600 block text-[10px] uppercase">Record Ref No:</span>
+                  <span className="font-mono font-bold text-gray-900">
+                    {activeConversationId ? `BIS-ADV-${activeConversationId.substring(0, 8).toUpperCase()}` : `BIS-ADV-${sessionId.current.slice(-8)}`}
+                  </span>
+                </div>
+                <div>
+                  <span className="font-bold text-gray-600 block text-[10px] uppercase">Date &amp; Time:</span>
+                  <span className="font-medium text-gray-900">
+                    {new Date().toLocaleDateString('en-IN', { day: '2-digit', month: 'short', year: 'numeric' })} at {new Date().toLocaleTimeString('en-IN', { hour: '2-digit', minute: '2-digit' })} IST
+                  </span>
+                </div>
+                <div>
+                  <span className="font-bold text-gray-600 block text-[10px] uppercase">Inquirer / Citizen:</span>
+                  <span className="font-medium text-gray-900">{currentUser?.email || 'Public Citizen (Unregistered)'}</span>
+                </div>
+                <div>
+                  <span className="font-bold text-gray-600 block text-[10px] uppercase">Statutory Scope:</span>
+                  <span className="font-medium text-gray-900">Indian Standards (IS), QCOs &amp; Conformity Certification</span>
+                </div>
+              </div>
+            </div>
+
             {messages.map(msg => {
               const isTypingDone = msg.sender !== 'assistant' || !msg.animateTyping || !!completedTypingMsgs[msg.id];
 
               return (
               <div
                 key={msg.id}
-                className={`flex gap-3 ${
+                className={`flex gap-3 chat-message-row ${
                   msg.sender === 'user' ? 'justify-end' : 'justify-start'
                 }`}
               >
                 {msg.sender === 'assistant' && (
-                  <div className="w-7 h-7 bg-[#0B3D6B] text-white flex items-center justify-center flex-shrink-0 mt-1 shadow-xs">
+                  <div className="w-7 h-7 bg-[#0B3D6B] text-white flex items-center justify-center flex-shrink-0 mt-1 shadow-xs no-print">
                     <Bot className="w-4 h-4 text-white" />
                   </div>
                 )}
 
                 <div
-                  className={`max-w-[88%] sm:max-w-[80%] p-3.5 shadow-xs border ${textSizeClass} ${
+                  className={`max-w-[88%] sm:max-w-[80%] p-3.5 shadow-xs border chat-message-bubble ${
+                    msg.sender === 'user' ? 'chat-message-user' : 'chat-message-assistant'
+                  } ${textSizeClass} ${
                     msg.sender === 'user'
                       ? highContrast
                         ? 'bg-yellow-950 text-yellow-200 border-yellow-500'
@@ -698,7 +754,7 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
 
                   {/* Assistant Actions Bar */}
                   {msg.sender === 'assistant' && isTypingDone && (
-                    <div className="mt-3 pt-2 border-t border-gray-200 flex flex-wrap items-center justify-between gap-2 text-xs transition-opacity duration-300">
+                    <div className="mt-3 pt-2 border-t border-gray-200 flex flex-wrap items-center justify-between gap-2 text-xs transition-opacity duration-300 assistant-actions-bar no-print">
                       <div className="flex items-center gap-2">
                         <button
                           onClick={() => handleExplainSimply(msg)}
@@ -798,6 +854,20 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
                     </div>
                   )}
 
+                  {/* Print-Only Sources Display: Ensures all cited standards appear on paper/PDF even if accordion is collapsed on screen */}
+                  {msg.sources && msg.sources.length > 0 && (
+                    <div className="print-only print-sources-box mt-2 pt-2 border-t border-dashed border-gray-300 text-[10pt]">
+                      <div className="font-bold text-[#0B3D6B] uppercase mb-1">
+                        Mandatory References Cited:
+                      </div>
+                      {msg.sources.map((src, sIdx) => (
+                        <div key={sIdx} className="text-gray-800 mb-0.5">
+                          &bull; <strong>{src.standard_number}</strong> &mdash; {src.title}{src.clause ? ` [Clause: ${src.clause}]` : ''}
+                        </div>
+                      ))}
+                    </div>
+                  )}
+
                   {/* Follow-up Question Chips */}
                   {msg.suggestedFollowups && msg.suggestedFollowups.length > 0 && isTypingDone && (
                     <div className="mt-3 pt-2 border-t border-gray-200 transition-opacity duration-300">
@@ -841,11 +911,28 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
             )}
 
             <div ref={messagesEndRef} />
+
+            {/* Official Print-Only Memorandum Footer */}
+            <div className="print-only print-official-footer mt-8 pt-4 border-t-2 border-[#0B3D6B]">
+              <div className="flex justify-between items-start text-xs text-gray-600 gap-6">
+                <div className="space-y-1 max-w-lg">
+                  <div className="font-bold text-gray-800">Statutory Notice &amp; Disclaimer:</div>
+                  <p className="leading-snug text-[10px]">
+                    This document is an authentic computer-generated transcript produced by BIS Sahayak for consumer informational and advisory reference under the BIS Act, 2016. To formally verify an ISI/CRS license number or report non-compliance, visit <strong>www.bis.gov.in</strong> or dial National Consumer Helpline <strong>1915</strong>.
+                  </p>
+                </div>
+                <div className="border border-dashed border-[#0B3D6B] p-2 text-center text-[10px] text-[#0B3D6B] font-bold shrink-0 w-44 bg-gray-50">
+                  BUREAU OF INDIAN STANDARDS
+                  <div className="text-[#138808]">COMPUTER VERIFIED RECORD</div>
+                  <div className="text-gray-400 text-[8px] font-normal">No Physical Signature Required</div>
+                </div>
+              </div>
+            </div>
           </div>
 
           {/* Input Bar */}
           <div
-            className={`p-3 border-t ${
+            className={`p-3 border-t chat-input-container no-print ${
               highContrast
                 ? 'bg-[#111] border-yellow-500'
                 : 'bg-white border-gray-300'
@@ -968,6 +1055,17 @@ export const ConsumerView: React.FC<ConsumerViewProps> = ({
           </div>
         </div>
       </div>
+
+      {/* Print Record & PDF Export Modal */}
+      <PrintRecordModal
+        isOpen={isPrintModalOpen}
+        onClose={() => setIsPrintModalOpen(false)}
+        messages={messages}
+        conversationTitle={conversations.find(c => c.id === activeConversationId)?.title || (messages.find(m => m.sender === 'user')?.text?.slice(0, 50))}
+        conversationId={activeConversationId}
+        currentUser={currentUser}
+        lang={lang}
+      />
     </div>
   );
 };
